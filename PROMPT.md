@@ -106,14 +106,7 @@ A. News and regulation table: every event from step 1 (at least 8 when the news 
 
 B. Scan table: all 27 sectors, with the strongest signal (with a link) or "no signal", and whether it was shortlisted.
 
-C. Ranked opportunities: every screened candidate that survived the kill checks, ranked by score, in a table with sector, track, score and band, a one-line angle, and the top evidence link. At least the top 5 get a short card:
-- the buyer
-- the money proof
-- the angle against existing products
-- the channel
-- the price
-- the biggest risk
-- a validation test with go/no-go thresholds that can run in 3 to 7 days for under $100 (for example a landing page with Polar pre-orders, a free lite version in a marketplace, 20 targeted DMs, or a small paid ad test)
+C. Ranked opportunities: every screened candidate that survived the kill checks, ranked by score, in a table with sector, track, score and band, a one-line angle, and the top evidence link. The top 5 get the same full card as the Discord report (Deliverable 2), including a validation test with go/no-go thresholds that can run in 3 to 7 days for under $100 (for example a landing page with Polar pre-orders, a free lite version in a marketplace, 20 targeted DMs, or a small paid ad test).
 
 D. Deep brief for the top candidate in each track (skip a track only if nothing in it scored 50 or more):
 1. Idea and buyer: name, web or mobile, the precise segment and geography, the recurring painful workflow, who pays, why now, the smallest differentiated promise.
@@ -131,20 +124,59 @@ E. Killed and dropped: one line per candidate with the kill check or score. Do n
 
 F. Source notes: which sources produced candidates, and any source whose access differs from SOURCES.md.
 
-DELIVERABLE 2: DISCORD DIGEST
-Write digests/YYYY-MM-DD.md (same date and suffix as the brief). A GitHub Action posts every new file in digests/ to Discord, so create exactly one digest per run and never edit old ones. Keep it under 3,500 characters, use no tables, and wrap every URL in angle brackets like <https://example.com>. Format:
+DELIVERABLE 2: DISCORD REPORT
+Write digests/YYYY-MM-DD.md (same date and suffix as the brief). A GitHub Action posts every new file in digests/ to Discord, so create exactly one per run and never edit old ones.
+
+This is the report Hamza actually reads. Nobody opens the brief, so the Discord report must stand on its own: everything needed to decide whether to build an idea is in it.
+
+Formatting rules (Discord):
+- A line containing only --- starts a new Discord message. Put --- between sections and between idea cards, so each card arrives as its own message.
+- Keep each card under 1,900 characters so it fits in one message. Split a longer card into two sections with --- ("card 1 of 2", "card 2 of 2").
+- Use ## and ### headings, **bold**, and - bullets. No tables (Discord does not render them).
+- Wrap every URL in angle brackets like <https://example.com> so Discord does not show previews.
+- Keep claims factual and sourced. Put the key source link next to each number. Mark unknowns as "unknown", never guess.
+- No overall length limit, but no filler. A typical report is 8 to 14 messages.
+
+Structure:
 
 ## Product Radar · {date}
-Scanned 27 sectors · {n} news signals · {n} candidates screened
-**Top opportunities**
-1. **{name}** · {score}/100 {VALIDATE or WATCHLIST} · {track} · {sector}
-   Angle: one line. Money proof: one line. Test: one line.
-(repeat for the top 5, fewer only if fewer survived)
-**News that matters**
-- {event, date}: {product angle} <{link}>
-(3 to 5 items)
-**Deadlines coming up:** {the 3 nearest from DEADLINES.md with dates}
-Full brief: <https://github.com/hamzamehboob493/product-radar/blob/main/briefs/{brief file name}>
+Scanned 27 sectors · {n} news signals · {n} candidates screened · {n} VALIDATE · {n} WATCHLIST
+**Best bets:** one line per VALIDATE idea (name, score, track).
+**Bottom line:** 2 to 3 lines: what to do this week.
+---
+(one full card per idea, for the top 5 ideas in score order, both tracks)
+### {rank}. {Idea name} · {score}/100 · {VALIDATE or WATCHLIST}
+**Track:** Micro (build ≤5 days, launch by day 10) or Bigger build (build 1 to 4 weeks, launch by day 30) · **Sector:** {sector}
+**What it is:** 1 to 2 lines, plain language.
+**Who pays:** exact buyer, company size, country or region.
+**The problem:** what hurts, with the strongest evidence (quotes, complaint counts, deadlines) and links.
+**Why now:** the news, deadline, shutdown or shift that makes this timely, with date and link; or "no trigger, steady demand".
+**Market analysis:**
+- Market size signals: reachable buyers (counts with sources, or a bottom-up estimate labeled as an estimate)
+- Money already flowing: competitor revenue, installs, reviews, prices, ad spend, with links
+- Competitors: 2 to 4 named, with price and main weakness each
+- The gap: what buyers still lack, with evidence
+**Our angle:** why a buyer would pick us.
+**Build difficulty:** Easy, Medium or Hard · {engineer-days, AI-assisted} · stack · key integrations or APIs · the hardest technical part · monthly maintenance hours.
+**Where to publish and sell:**
+- Main channel (marketplace, store or own site), with its review time, listing requirements and fees
+- Secondary channels (directories, communities, launch sites)
+- Payment path: Polar own checkout or marketplace billing, with fees, and whether Pakistan payouts are verified
+**Pricing and economics:** price tiers, monthly running cost at 50 customers, margin, break-even customer count, revenue at 25 and 100 customers (labeled estimates).
+**Launch plan:** Day 0 to launch in 3 to 5 steps with day numbers.
+**First 10 customers:** where exactly to find them, and a one-line pitch.
+**Validation test (before building):** what to do, cost, how many days, and the go and no-go numbers.
+**Risks:** the top 2 to 3, each with a mitigation or "no mitigation".
+**Confidence:** Low, Medium or High, with one line why.
+---
+## News and deadlines
+- 5 to 8 news items: **{event}** ({date}): who is affected, what changes, product angle. <link>
+- The 5 nearest deadlines from DEADLINES.md with dates and angles.
+---
+## Also on the watchlist
+One line each for WATCHLIST ideas ranked 6 and below: name, score, the one piece of evidence that would move it up.
+**Dropped or killed this run:** one line with counts and main reasons.
+Full brief (archive): <https://github.com/hamzamehboob493/product-radar/blob/main/briefs/{brief file name}>
 
 DELIVERABLE 3: IDEAS INDEX
 Append one row to the table in ideas-index.md for every candidate screened this run:
@@ -157,7 +189,7 @@ COMMIT AND PUSH
 - Change only the brief, the digest, ideas-index.md and DEADLINES.md. Never edit PROMPT.md, SOURCES.md, README.md, .github/ or older briefs and digests.
 - Run git pull --rebase, then commit the four files in one commit with the message "radar: YYYY-MM-DD", then push to main.
 - If the push fails, run git pull --rebase and push once more.
-- If it still fails, put the digest and the brief in your final message and state the error in one line.
+- If it still fails, put the Discord report and the brief in your final message and state the error in one line.
 
 STYLE
 Write in clear, practical English. Use compact tables in the brief where they help. No filler, no hype, and never use em dashes.

@@ -62,12 +62,12 @@ Rows marked "Rejected" (runs 1 to 3) used an older, too-strict method; the re-sc
 | 2026-09-25 | Home services and construction | A | Jobber bulk price increases | Rejected | G4 | [brief](briefs/2026-09-25-3.md) |
 | 2026-09-25 | Developer tools and AI infrastructure | B | Forge rebuild of stalled Atlassian Connect app | Rejected | G6 | [brief](briefs/2026-09-25-3.md) |
 | 2026-09-25 | Data products and APIs | A | Apify Yelp business and reviews Actor | Rejected | G8 | [brief](briefs/2026-09-25-3.md) |
-| 2026-09-25 | Clinic and practice admin | B | Re-score: complaints log + CMA tracker for UK vets | Validate | 71/100 | [brief](briefs/2026-09-25-4.md) |
-| 2026-09-25 | Sales and revenue ops | B | Re-score: Pipedrive bulk dedupe with merge undo | Validate | 69/100 | [brief](briefs/2026-09-25-4.md) |
-| 2026-09-25 | Education and e-learning | B | Re-score: bulk course-document accessibility (ADA Title II) | Watchlist | 64/100 | [brief](briefs/2026-09-25-4.md) |
+| 2026-09-25 | Clinic and practice admin | B | Re-score: complaints log + CMA tracker for UK vets | Validate | 70/100 | [brief](briefs/2026-09-25-4.md) |
+| 2026-09-25 | Sales and revenue ops | B | Re-score: Pipedrive bulk dedupe with merge undo | Validate | 70/100 | [brief](briefs/2026-09-25-4.md) |
+| 2026-09-25 | Education and e-learning | B | Re-score: bulk course-document accessibility (ADA Title II) | Watchlist | 61/100 | [brief](briefs/2026-09-25-4.md) |
 | 2026-09-25 | E-commerce and marketplace sellers | B | Re-score: WooCommerce to TikTok Shop for EU sellers | Watchlist | 62/100 | [brief](briefs/2026-09-25-4.md) |
 | 2026-09-25 | Design and creative professionals | A | Re-score: Figma design context for coding agents | Watchlist | 62/100 | [brief](briefs/2026-09-25-4.md) |
-| 2026-09-25 | Marketing and advertising | B | Re-score: AI-search visibility tracker for one vertical | Watchlist | 62/100 | [brief](briefs/2026-09-25-4.md) |
+| 2026-09-25 | Marketing and advertising | B | Re-score: AI-search visibility tracker for one vertical | Watchlist | 60/100 | [brief](briefs/2026-09-25-4.md) |
 | 2026-09-25 | GCC and Arabic-first | B | Re-score: Arabic/RTL client reports for GCC agencies | Watchlist | 61/100 | [brief](briefs/2026-09-25-4.md) |
 | 2026-09-25 | Real estate and property management | B | Re-score: HubSpot app for UAE portals | Watchlist | 58/100 | [brief](briefs/2026-09-25-4.md) |
 | 2026-09-25 | Automotive | B | Re-score: Shopmonkey KPI and unsold-work digest | Watchlist | 58/100 | [brief](briefs/2026-09-25-4.md) |

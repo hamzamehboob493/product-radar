@@ -38,7 +38,26 @@ def digests_to_post() -> list[str]:
 
 
 def split(text: str) -> list[str]:
-    """Split on line breaks into chunks of at most MAX_CHARS, without losing text."""
+    """Split into Discord messages.
+
+    A line containing only '---' starts a new message, so each section (for
+    example one idea card) arrives as its own message. Sections longer than
+    MAX_CHARS are split on line breaks without losing text.
+    """
+    chunks: list[str] = []
+    section: list[str] = []
+    for line in text.strip().split("\n"):
+        if line.strip() == "---":
+            chunks.extend(split_section("\n".join(section)))
+            section = []
+        else:
+            section.append(line)
+    chunks.extend(split_section("\n".join(section)))
+    return chunks
+
+
+def split_section(text: str) -> list[str]:
+    """Split one section on line breaks into chunks of at most MAX_CHARS."""
     chunks: list[str] = []
     buf = ""
 

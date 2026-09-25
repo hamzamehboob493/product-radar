@@ -1,8 +1,10 @@
 # Ideas index
 
-Every idea the radar has screened, picked or rejected. Each run reads this first so it does not repeat itself.
+Every idea the radar has screened. Each run reads this first so it does not repeat itself.
 
-| Date | Sector | Track | Idea | Outcome | Score or failed gate | Brief |
+Rows marked "Rejected" (runs 1 to 3) used an older, too-strict method; the re-score rows below them carry the current status.
+
+| Date | Sector | Track | Idea | Outcome | Score, kill check or failed gate | Brief |
 |---|---|---|---|---|---|---|
 | 2026-09-25 | Data products and APIs | A | Apify Actor: Bayut / Property Finder / Dubizzle | Rejected | G4 | [brief](briefs/2026-09-25.md) |
 | 2026-09-25 | Data products and APIs | A | Apify Actor: US contractor licence lookups | Rejected | G4 | [brief](briefs/2026-09-25.md) |
@@ -60,3 +62,17 @@ Every idea the radar has screened, picked or rejected. Each run reads this first
 | 2026-09-25 | Home services and construction | A | Jobber bulk price increases | Rejected | G4 | [brief](briefs/2026-09-25-3.md) |
 | 2026-09-25 | Developer tools and AI infrastructure | B | Forge rebuild of stalled Atlassian Connect app | Rejected | G6 | [brief](briefs/2026-09-25-3.md) |
 | 2026-09-25 | Data products and APIs | A | Apify Yelp business and reviews Actor | Rejected | G8 | [brief](briefs/2026-09-25-3.md) |
+| 2026-09-25 | Clinic and practice admin | B | Re-score: complaints log + CMA tracker for UK vets | Validate | 71/100 | [brief](briefs/2026-09-25-4.md) |
+| 2026-09-25 | Sales and revenue ops | B | Re-score: Pipedrive bulk dedupe with merge undo | Validate | 69/100 | [brief](briefs/2026-09-25-4.md) |
+| 2026-09-25 | Education and e-learning | B | Re-score: bulk course-document accessibility (ADA Title II) | Watchlist | 64/100 | [brief](briefs/2026-09-25-4.md) |
+| 2026-09-25 | E-commerce and marketplace sellers | B | Re-score: WooCommerce to TikTok Shop for EU sellers | Watchlist | 62/100 | [brief](briefs/2026-09-25-4.md) |
+| 2026-09-25 | Design and creative professionals | A | Re-score: Figma design context for coding agents | Watchlist | 62/100 | [brief](briefs/2026-09-25-4.md) |
+| 2026-09-25 | Marketing and advertising | B | Re-score: AI-search visibility tracker for one vertical | Watchlist | 62/100 | [brief](briefs/2026-09-25-4.md) |
+| 2026-09-25 | GCC and Arabic-first | B | Re-score: Arabic/RTL client reports for GCC agencies | Watchlist | 61/100 | [brief](briefs/2026-09-25-4.md) |
+| 2026-09-25 | Real estate and property management | B | Re-score: HubSpot app for UAE portals | Watchlist | 58/100 | [brief](briefs/2026-09-25-4.md) |
+| 2026-09-25 | Automotive | B | Re-score: Shopmonkey KPI and unsold-work digest | Watchlist | 58/100 | [brief](briefs/2026-09-25-4.md) |
+| 2026-09-25 | Real estate and property management | B | Re-score: England landlord register readiness pack | Watchlist | 55/100 | [brief](briefs/2026-09-25-4.md) |
+| 2026-09-25 | Home services and construction | A | Re-score: Jobber bulk price increases | Dropped | 43/100 | [brief](briefs/2026-09-25-4.md) |
+| 2026-09-25 | Sales and revenue ops | B | Re-score: Arabic call-note AI | Dropped | 48/100 | [brief](briefs/2026-09-25-4.md) |
+| 2026-09-25 | GCC and Arabic-first | B | Re-score: ZATCA Phase 2 for WooCommerce | Dropped | 45/100 | [brief](briefs/2026-09-25-4.md) |
+| 2026-09-25 | Marketing and advertising | A | Re-score: Google Ads query-language guard (recheck mid-Nov) | Dropped | 45/100 | [brief](briefs/2026-09-25-4.md) |

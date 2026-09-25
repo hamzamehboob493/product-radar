@@ -160,6 +160,8 @@ Every run scans all 27 sectors, then goes deep on the strongest candidates from 
 |---|---|---|
 | Reddit | Search | Blocked for the fetch tool. Search `site:reddit.com "is there a tool" <niche>` and `site:reddit.com <competitor> alternative`. |
 | [Hacker News](https://news.ycombinator.com/show) | Read | Show HN traction (points, comments) and Ask HN threads. |
+| [Apify Store API](https://api.apify.com/v2/store?limit=100&sortBy=popularity) | Read | Actor usage and ratings as JSON; cheaper than web searches. Add `&search=<term>`. |
+| [CodeCanyon search](https://codecanyon.net/search/zatca) | Read | Sales counts for any niche term (replace the term). |
 | [G2](https://www.g2.com/categories/marketing-automation) | Read | Category leaders with review counts; read 1 to 3 star reviews. |
 | [Capterra](https://www.capterra.com/customer-service-software/) | Read | Same as G2, with more SMB and vertical categories. |
 | [Trustpilot](https://www.trustpilot.com/categories/software_company) | Read | Complaints with review counts. |
@@ -183,25 +185,57 @@ Every run scans all 27 sectors, then goes deep on the strongest candidates from 
 | [Skool discovery](https://www.skool.com/discovery) | Read | Paid communities with member counts and prices. |
 | IdeaBrowser, Pinterest Trends, Y Combinator directory, Substack leaderboards | Search | Blocked, 403 or JavaScript. |
 
-### Platform shifts and regulation ("what change forces people to buy something new?")
+### News, regulation and platform shifts ("what change forces people to buy something new?")
+Every run starts here (PROMPT.md step 1). Tested 2026-09-25.
+
+**Laws, rules and regulators**
+| Source | Access | Use it for |
+|---|---|---|
+| [Federal Register API](https://www.federalregister.gov/api/v1/documents.json?conditions[type][]=RULE&order=newest&per_page=20) | Read | Newest US final rules with agency and date. Search by topic with `conditions[term]=`, for example `%22artificial+intelligence%22`, `privacy`, `accessibility`, `small+business`. Use `conditions[type][]=PRORULE` for proposed rules. |
+| [FTC press releases](https://www.ftc.gov/news-events/news/press-releases) | Read | US consumer protection actions and new rules (subscriptions, reviews, pricing, AI claims). |
+| [Digital Policy Alert](https://digitalpolicyalert.org/) | Read | Global tech policy events with jurisdiction and date (AI, data, platforms, cybersecurity). |
+| [IAPP news](https://iapp.org/news/) | Read | Privacy and AI governance news worldwide. The IAPP state AI law tracker is members-only. |
+| [EU AI Act timeline](https://artificialintelligenceact.eu/implementation-timeline/) | Read | Upcoming AI Act obligations by date. |
+| [White & Case AI Watch](https://www.whitecase.com/insight-our-thinking/ai-watch-global-regulatory-tracker) | Read | AI regulation status by country; few dates, so use it for orientation. |
+| [gov.uk news and communications](https://www.gov.uk/search/news-and-communications?order=updated-newest) | Read | UK government and regulator announcements, newest first. |
+| [VATupdate](https://www.vatupdate.com/category/saudi-arabia/) | Read | E-invoicing and tax-reporting rules by country (change the category for UAE, EU countries and others). |
+| EUR-Lex, EU Commission press corner, ICO news, legislation.gov.uk | Search | JavaScript pages or incomplete listings. |
+| Google News RSS | Search | Blocked by robots.txt. Use web search with dates instead. |
+
+**Platform and AI changes**
 | Source | Access | Use it for |
 |---|---|---|
 | [Shopify developer changelog](https://shopify.dev/changelog) | Read | Deprecations and new APIs, with dates. |
 | [HubSpot developer changelog](https://developers.hubspot.com/changelog) | Read | Sunsets and new APIs, with dates. |
-| [EU AI Act timeline](https://artificialintelligenceact.eu/implementation-timeline/) | Read | Upcoming obligations by date. |
+| [Google Search Central blog](https://developers.google.com/search/blog) | Read | Search and ranking policy changes affecting site owners. |
+| [Apple developer news](https://developer.apple.com/news/) | Read | App Store rule and platform changes. |
+| [OpenAI news](https://openai.com/news/) and [Anthropic news](https://www.anthropic.com/news) | Read | New AI capabilities that make manual jobs automatable. |
 | [Meta Graph API changelog](https://developers.facebook.com/docs/graph-api/changelog/) | Partial | Version dates only. |
-| OpenAI changelog | Search | Returned a server error on Sep 25. |
-| Google Ads API release notes, WhatsApp Business Platform changelog, Chrome Platform Status, Apple developer news, Stripe changelog, QuickBooks and Xero developer news | Untested | Try them and report access in the brief. |
-| Regulation feeds (European Accessibility Act, EU GPSR, US state privacy laws, FTC rules, Google and Yahoo email sender rules) | Search | Search for recent enforcement dates and requirements. |
+| Google Ads API release notes, WhatsApp Business Platform changelog, Chrome Platform Status, Stripe changelog, QuickBooks and Xero developer news | Untested | Try them and report access in the brief. |
+
+**Tech and money news**
+| Source | Access | Use it for |
+|---|---|---|
+| [Techmeme](https://www.techmeme.com/) | Read | The day's biggest tech stories with sources. |
+| [TechCrunch feed](https://techcrunch.com/feed/) | Read | Startup launches, funding and shutdowns, with dates. |
+| [Crunchbase News](https://news.crunchbase.com/) | Read | Funding rounds by sector: where investors see money. |
+| [Hacker News front page](https://news.ycombinator.com/) | Read | What developers are reacting to. |
+
+**Web search patterns for news (use dates in queries)**
+- `"new rule" OR "final rule" OR "comes into force" small businesses {month} {year}`
+- `"compliance deadline" {year+1} software OR "online businesses"`
+- `"AI Act" OR "AI law" obligations {month} {year}`, and the same for "state AI law", "privacy law" and "accessibility law"
+- `{platform} "deprecat" OR "sunset" OR "shutting down" {month} {year}`, for Shopify, HubSpot, Google, Meta, WhatsApp, Microsoft, Atlassian, Salesforce, Zapier, Notion, QuickBooks, Xero
+- `"shutting down" OR "sunsetting" SaaS customers {month} {year}`: stranded paying customers need a replacement
+- `"e-invoicing" mandate {country} {year}`, `"price increase" {tool} customers angry {year}`
 
 ## 4. How a run should use this
 
-1. **Money scan (about 10 minutes):** check the section 1 sources and the platform-shift sources for anything new since the last run.
-2. **Wide scan:** check every one of the 27 sectors and log its strongest signal. Then shortlist the 8 to 12 best candidates from any sectors and triangulate three things for each:
-   - proof that money exists (revenue, installs, sales, ad spend)
-   - buyer pain (reviews, threads, job posts, "alternative to" searches)
-   - a gap (a missing feature, an ignored segment, an abandoned tool, a platform or regulation change)
-3. **Proven models:** for Track B, start from the revenue and exit sources and marketplace leaders, then look for the thin-competition angle.
+PROMPT.md "WHERE TO LOOK" is the authoritative order. In short:
+
+1. **News and regulation scan** using the news section above, feeding DEADLINES.md.
+2. **Wide scan** of all 27 sectors, logging each sector's strongest signal.
+3. **Proven models:** start from the revenue and exit sources and marketplace leaders, then ask where the same model is missing (another platform, segment, language or country).
 4. **Source notes:** record which sources produced candidates and which failed, so this library can be pruned.
 
 ## 5. Rules

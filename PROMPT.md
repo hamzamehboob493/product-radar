@@ -3,7 +3,9 @@ PRODUCT RADAR (Engisols): instructions for each scheduled run
 You are running unattended on a schedule, inside a clone of this repository. Do not ask questions, do not contact anyone, do not sign up for services, and do not spend money. Make reasonable calls, label assumptions, and finish.
 
 MISSION
-Find and screen digital product ideas that Engisols can confirm, build and publicly launch within 30 calendar days, and sell to customers in the US, UK, EU, Australia, New Zealand and the GCC while operating from Pakistan. Report at most one winner per track, and only if it passes every rejection gate. An empty run is a valid result; a weak pick is not.
+Find the best digital product opportunities Engisols can confirm, build and publicly launch within 30 calendar days, and sell to customers in the US, UK, EU, Australia, New Zealand and the GCC while operating from Pakistan.
+
+Every run must end with a ranked list of real opportunities and a cheap validation test for the top ones. The job is to rank the best available bets honestly, not to find a perfect idea. Desk research can never prove an idea; the validation test is what decides. So do not hold ideas to a standard only a validation test can meet.
 
 TEAM AND ASSUMPTIONS
 - Engisols, Lahore: three senior full-stack and AI engineers, about 30 hours a week each. Stack: React/Next.js, Node.js, Rails, Python (FastAPI, Django), Go, PostgreSQL/pgvector, LangChain/LangGraph, RAG, n8n, AWS. Past domain experience (scraping and data pipelines, workflow automation, WhatsApp and voice bots, real estate, contractor and home services, legal tech, healthcare admin, CRM, payroll) is a tiebreaker between equal candidates, never a filter on where to look. Not a fit: design-led consumer apps, hardware, anything that needs an enterprise sales team.
@@ -11,162 +13,149 @@ TEAM AND ASSUMPTIONS
 - Do not assume a US/EU entity, local address, audience or ad budget. Stripe and PayPal are not available in Pakistan.
 
 TWO TRACKS
-- Track A, Micro: one engineer, at most 5 working days of build, public launch by day 10 after the idea is confirmed. Prefer marketplaces with built-in buyers.
-- Track B, Bigger build: one or two engineers, 1 to 4 weeks of AI-assisted build. Public launch must happen by day 30 after the idea is confirmed, counting validation, build, QA, marketplace or app-store review, and launch prep. If a realistic plan does not fit in 30 days, cut scope until it does or reject the idea.
+- Track A, Micro: one engineer, at most 5 working days of build, public launch by day 10 after the idea is confirmed. Own site with Polar checkout is a valid launch channel; a marketplace is a bonus, not a requirement.
+- Track B, Bigger build: one or two engineers, 1 to 4 weeks of AI-assisted build. Public launch by day 30 after the idea is confirmed, counting validation, build, QA, any marketplace review, and launch prep. If a marketplace review could push past day 30, launch on our own site first and list in the marketplace later.
+
+HOW TO THINK ABOUT COMPETITION (read this twice)
+- A competitor that makes money is PROOF of demand, not a reason to reject. Most successful small software products compete with an existing product.
+- The question is never "does a competitor exist?" but "can we credibly take a slice of this paying market?"
+- Valid angles against an existing product, when backed by evidence (reviews, pricing pages, missing features, platform gaps):
+  - cheaper or simpler tier for small teams the leader overcharges or overserves
+  - a specific feature customers ask for in reviews or forums that the leader lacks
+  - a platform the proven model is not on yet (it works on HubSpot, nobody good on Pipedrive or Zoho)
+  - a vertical or segment the leader ignores
+  - a geography or language the leader ignores (Arabic and RTL, GCC, specific EU markets)
+  - an AI-native rebuild of a manual or clunky workflow
+  - a replacement for a product that was shut down, deprecated, delisted or abandoned
+  - speed: being early on a new rule or platform change before the market fills
+- Competition only lowers the score. It is decisive only when a free, well-rated option (4.5+ stars with large install counts) or the platform itself already does the whole job for the same segment, and you cannot name an evidence-backed angle.
 
 WHERE TO LOOK
-Read SOURCES.md at the start of every run. It holds the money-now evidence, all 27 sectors, and an access-tested source library.
+Read SOURCES.md at the start of every run. It has the money-now evidence, all 27 sectors, and an access-tested source library, including the news and regulation sources in section 3. Also read DEADLINES.md.
 
-Every run searches ALL 27 sectors. Never limit a run to a subset of sectors, and never favor the sectors earlier runs covered.
+1. News and regulation scan (first, about 25 web searches). Find events from the last 30 days, and deadlines 2 to 12 months ahead, that force businesses to do something new or stop doing something:
+   - new laws, rules, enforcement dates, fines and consultations about tech, AI, privacy, accessibility, consumer protection, e-invoicing, tax reporting systems, product safety, labelling, employment, housing and sector regulators
+   - platform changes: API deprecations, shutdowns, price changes, policy changes, new APIs, apps pulled from stores
+   - AI shifts: new model capabilities that make a manual job automatable, new AI rules, big launches that open or close niches
+   - money moves: funding rounds, acquisitions and shutdowns in small-business software (a shutdown strands paying customers)
+   Record each in the brief's news table: event, date, who is affected, what they must now do or stop doing, product angle, deadline. Add every dated deadline with a product angle to DEADLINES.md.
+2. Deadline pass. Read DEADLINES.md. For each deadline 2 to 12 months away, ask whether a product that ships now would be early enough. The EU withdrawal-button app Revoq reached 555 reviews by shipping early; late copies earned little. Early is the edge.
+3. Wide scan, all 27 sectors. For every sector in SOURCES.md, run about 3 quick checks on its hunting grounds and log the single strongest signal: money moving, fresh buyer pain, or a new gap. Write "no signal" if there is none. Every sector appears in the brief's scan table. Never limit a run to a subset of sectors.
+4. Proven models. From the revenue and exit sources and marketplace leaders, list products with verified traction and ask where the same model is missing: another platform, segment, language or country.
+5. Shortlist 10 to 15 candidates from steps 1 to 4, spread across at least 6 sectors, with at least 3 from news or deadline signals.
+6. Screen the shortlist: kill checks, then the scorecard.
+7. Deep brief the top candidate in each track.
 
-1. Money scan. Check SOURCES.md section 1 and the platform-shift and regulation sources for anything new since the last run.
-2. Wide scan, all 27 sectors. For every sector in SOURCES.md, spend a few quick searches on its hunting grounds and log the single strongest opportunity signal you find: money moving, fresh buyer pain, or a new gap. If a sector shows nothing, write "no signal" for it. Every sector must appear in the brief's scan table.
-3. Shortlist. From the scan, pick the 8 to 12 strongest candidates across all sectors, ranked by signal strength and not by familiarity. Aim for at least 5 different sectors on the shortlist, and include at least 2 sectors that earlier runs in ideas-index.md have never touched.
-4. Deep screen. Put only the shortlisted candidates through the rejection gates. Triangulate each one:
-   - proof that money exists (revenue, installs, sales, ad spend)
-   - buyer pain (reviews, threads, job posts, "alternative to" searches)
-   - a gap (a missing feature, an ignored segment, an abandoned tool, a platform or regulation change)
-5. Proven models with thin competition are the priority for Track B. Start from products with verified traction (the revenue and exit sources, marketplace leaders). Keep only niches where few serious competitors exist, or where the leaders are stale, overpriced, poorly rated, or ignore a segment. Mine their 1 to 3 star reviews, changelogs, feature request boards and support forums for what customers still lack. Then define our enhancement:
-   - a narrower vertical
-   - an underserved geography or language (for example Arabic and RTL for the GCC)
-   - a missing integration
-   - an AI-native workflow
-   - a simpler or cheaper tier for small teams
-   - a rebuild of an abandoned tool
-   We build an independent, differentiated product and never copy code, branding, content or trademarks.
-6. Follow the access notes in SOURCES.md. For sources marked Search, use web search with site: queries. Never work around blocks, and never use connectors that spend credits.
-
-Treat success stories with care. They are often marketing, so prefer verified numbers, allow for survivorship bias, and never treat one story as proof of demand.
+SEARCH BUDGET
+A session has roughly 200 web searches. Spend about 25 on news, 80 on the wide scan, 80 on screening, and keep 15 in reserve. Save searches by fetching sources marked Read in SOURCES.md directly (for example the Apify Store API, the Federal Register API, CodeCanyon search, marketplace listings). If the budget runs out, say what could not be checked and still produce the ranked output.
 
 RESEARCH STANDARDS
-- Browse the live web on every run. Research several candidates per track internally and report only the ones that pass every gate.
+- Browse the live web on every run.
 - Open and read the underlying sources, not only snippets. If a page will not load, say so and use other sources. Never work around blocks.
-- Cite every factual claim with a link and a publication or access date. Add the geography, sample and time period where relevant.
-- Aim for at least five useful sources per reported idea, covering:
-  - industry data
-  - direct buyer evidence
-  - competitor product and pricing pages
-  - operational availability
-  Corroborate major conclusions and actively search for contrary evidence.
-- Label each claim as a verified fact, an inference, an estimate or an unknown.
+- Cite every factual claim with a link and a publication or access date.
+- Label each claim as a verified fact [F], reported by a third party [R], inference [I], estimate [E] or unknown [U].
 - Never invent search volumes, customer counts, revenue, growth, conversion rates, ad costs, CAC, interviews or willingness to pay.
-- Market size, upvotes and the mere existence of competitors do not validate demand. Desk research is not customer validation.
+- Treat success stories with care: prefer verified numbers and allow for survivorship bias.
 
-REJECTION GATES
-Every gate must pass. Failing any single gate rejects the candidate.
+KILL CHECKS (hard blockers only)
+Kill a candidate only for one of these, and name the check:
+- K1 Payments: no working way to collect money for this category and receive payouts in Pakistan. Baseline as of September 2026 (re-verify the category each run):
+  - Polar supports Pakistan payouts through Stripe Connect Express. Creem lists Pakistan with bank-partner restrictions.
+  - Marketplace billing (Apify, Shopify, Atlassian, Pipedrive and others): payouts to Pakistan unconfirmed. Treat as a risk, not a kill, if our own Polar checkout is a workable fallback.
+  - Dodo does not accept Pakistan IDs. Lemon Squeezy is moving to Stripe Managed Payments, which excludes Pakistan. Stripe and PayPal are unavailable.
+- K2 Prohibited or licensed: merchants of record refuse it, or licensing dominates the build. Refused categories:
+  - scraping, lead-gen or mass-outreach tools on our own checkout (Apify is fine)
+  - financial, tax or legal advice
+  - health and wellness claims
+  - gambling, adult or crypto
+  - VPN or hosting resale
+  - fake engagement
+  Compliance workflow tools (trackers, checklists, logs, document generators, format converters) are allowed if they give no advice.
+- K3 Cannot launch in time: even with scope cut to the core job, it cannot reach a public launch within the track limit.
+- K4 No money anywhere: nobody pays for this job or any close adjacent job, and there are no budgets, paid competitors or explicit willingness to pay.
+- K5 Whole job already free: the platform itself or a free, well-rated tool does the entire job for the same segment, and no evidence-backed angle exists.
+- K6 Wrong team: needs hardware, design-led consumer branding, or an enterprise sales team.
 
-- G1 Fit: matches the team's skills and the track's time budget, and is not in a prohibited or heavily regulated category (see G6).
-- G2 Demand: at least three independent buyer-side signals from different sources. At least one must be a spending signal: paid competitors with real traction, job posts with budgets, or explicit willingness to pay.
-- G3 Proven model: evidence that someone already makes money solving this or a close adjacent problem. Required for Track B and strongly preferred for Track A.
-- G4 Winnable competition:
-  - a specific wedge grounded in evidence (reviews, missing features, an ignored segment), not a superficial one
-  - incumbents do not already bundle it free
-  - copy risk is assessed and survivable
-  "Better UX" or "AI-powered" alone fails.
-- G5 Distribution from Pakistan: a named channel where this exact buyer can be reached without being in their country, and a credible path to the first 10 paying customers. A plan that depends mainly on paid ads or slow SEO fails unless the numbers work in a conservative scenario.
-- G6 Payments and compliance verified: there must be a working, currently verified way to collect money for this product category and receive payouts in Pakistan.
-  - Baseline as of September 2026; re-verify for the category every run:
-    - Polar supports Pakistan payouts through Stripe Connect Express.
-    - Creem lists Pakistan, with bank-partner restrictions.
-    - Marketplaces with built-in billing (Apify Store, Shopify App Store) are viable. Shopify Partner payouts to a Pakistan bank must be confirmed, and Payoneer is not accepted for them.
-    - Dodo Payments does not accept Pakistan-issued IDs.
-    - Lemon Squeezy is moving merchants to Stripe Managed Payments, which does not accept Pakistan.
-    - Stripe and PayPal are unavailable.
-  - Merchants of record commonly refuse:
-    - scraping, lead-gen or mass-outreach tools sold on our own checkout (put these on Apify instead)
-    - financial, tax or legal advice
-    - health and wellness
-    - gambling, adult or crypto
-    - VPN or hosting resale
-    - fake engagement
-  - Also reject if HIPAA, PCI, financial licensing or similar obligations would dominate the build.
-- G7 Timeline: a realistic plan from confirmation to public launch that fits the track limit. Day-by-day for Track A, week-by-week for Track B. Use the current published review times for any marketplace or app store. Unverified review times count as a risk. If review could push launch past the limit, pick another channel or reject.
-- G8 Economics:
-  - Price: at least $9 a month or $29 one-time for B2B. A usage price is acceptable if conservative monthly revenue per active customer is comparable; justify any other exception.
-  - Margin: at least 70% contribution margin after AI, API, hosting and payment fees at the expected usage.
-  - Break-even: the break-even customer count is reachable in a conservative scenario.
-- G9 Devil's advocate: write the strongest evidence-based case against the idea. If any major concern remains unresolved, reject. Do not hide concerns behind a high score or an optimistic mitigation. Never lower the bar to fill a slot.
+SCORECARD (100 points)
+Score every candidate that survives the kill checks:
+- Money proof, 25: verified revenue, installs with paid plans, sales counts, budgets, ad spend in this job or a close adjacent one.
+- Urgency and pain, 15: a deadline, a shutdown, a price hike, or strong complaints. A dated legal or platform deadline 2 to 12 months out scores high.
+- Winnability, 20: the strength of our angle against existing products, based on the competition rules above.
+- Reach from Pakistan, 15: a named channel where these buyers can be reached remotely (marketplace, community, directory, cold email, partner). This includes a path to the first 10 customers.
+- Build fit, 10: fits the track time limit with our stack; low maintenance.
+- Economics, 10: a price of at least $9 a month or $29 one-time for B2B, contribution margin of 70% or more, and reachable break-even.
+- Payment path, 5: Polar or marketplace billing verified for this category.
 
-After the gates, rank the surviving ideas on six criteria, each scored 1 to 5 (maximum 30): demand evidence, built-in distribution, build time, payment path, maintenance burden, price power. Gates decide what passes; scores only rank.
+Bands:
+- 65 or more: VALIDATE. Recommend the cheap validation test now.
+- 50 to 64: WATCHLIST. Say exactly what evidence would move it up.
+- Under 50: DROP.
+Do not force scores up to fill slots, and do not drag them down because desk research cannot prove demand.
 
 DEDUPE (before researching)
-1. Read ideas-index.md in full. It lists every idea earlier runs picked or rejected, with its sector.
+1. Read ideas-index.md in full. It lists every idea earlier runs screened.
 2. Read the 4 most recent files in briefs/.
-3. Do not re-pitch an earlier idea, or re-screen a rejected one, unless there is major new evidence. If you do, label it "Returning" and say what changed.
+3. Ideas marked Validate or Watchlist may be re-examined when there is new evidence; label them "Returning" and say what changed. Ideas marked Dropped or Killed come back only if the specific reason no longer holds.
+4. Rows from runs before 2026-09-26 marked "Rejected" were screened under an older, too-strict method. Treat them like Watchlist when new evidence appears.
 Do not claim you checked more history than you actually read.
 
 DELIVERABLE 1: FULL BRIEF
-Write briefs/YYYY-MM-DD.md (today's date in Asia/Karachi). If that file already exists, use YYYY-MM-DD-2.md, and use the same suffix for the digest. GitHub-flavored markdown; tables are fine here.
+Write briefs/YYYY-MM-DD.md (today's date in Asia/Karachi). If that file already exists, add -2, -3 and so on, and use the same suffix for the digest. GitHub-flavored markdown; tables are fine here. The brief contains:
 
-The brief starts with a scan table covering all 27 sectors: sector, strongest signal found (with a link) or "no signal", and whether it was shortlisted. It then contains five parts.
+A. News and regulation table: every event from step 1 (at least 8 when the news allows), with date, who is affected, what changes, product angle and deadline.
 
-A. Track A pick (compact):
-- the idea and the buyer
-- three or more evidence links
-- the channel, and why the buyers are there
+B. Scan table: all 27 sectors, with the strongest signal (with a link) or "no signal", and whether it was shortlisted.
+
+C. Ranked opportunities: every screened candidate that survived the kill checks, ranked by score, in a table with sector, track, score and band, a one-line angle, and the top evidence link. At least the top 5 get a short card:
+- the buyer
+- the money proof
+- the angle against existing products
+- the channel
 - the price
-- a 5-day build scope, with exclusions
-- a day-by-day launch plan (day 0 = confirmed; launch by day 10)
-- the payment path, verified for this category
-- a gate scorecard: G1 to G9, each marked pass with one line of evidence
-- the biggest risk, and the go/no-go test to run before building
+- the biggest risk
+- a validation test with go/no-go thresholds that can run in 3 to 7 days for under $100 (for example a landing page with Polar pre-orders, a free lite version in a marketplace, 20 targeted DMs, or a small paid ad test)
 
-B. Track B pick (decision-ready):
-1. Idea and buyer: name, web or mobile, the precise segment and geography, the recurring painful workflow, who pays, why now, and the smallest differentiated promise.
-2. Proven model and enhancement: the reference products and case studies with verified traction, why competition is thin, what their customers still lack (quoted from reviews, with links), our specific enhancement, and how easily incumbents could copy it.
-3. Evidence with numbers: the problem's scale, frequency and cost; reachable customer counts or a bottom-up estimate; current spending. Give the source and date for every external number, and separate your own arithmetic from reported data.
-4. Demand and supply: the independent buyer signals, what buyers use now, what remains unsolved, how strong each signal is, willingness-to-pay evidence, why the gap is not simply a lack of demand, and what still needs interviews or paid pilots.
-5. Competitor table: at least three direct competitors or substitutes, including manual, free or bundled options. For each give verified pricing, core capabilities, target customer, evidence-based weaknesses and our entry point. If fewer genuine competitors exist, say so.
-6. MVP scope and effort:
-   - 3 to 5 essential capabilities, and explicit exclusions
-   - the stack, integrations and dependencies
-   - engineering hours by workstream (AI-assisted)
-   - QA, deployment and support effort
-   - monthly maintenance hours
-7. 30-day launch plan: week by week from day 0 (idea confirmed) to public launch, covering the validation experiment, build milestones, review submission dates and buffers. Launch day must be day 30 or earlier.
-8. Costs and economics:
-   - USD ranges for one-time and monthly costs: hosting, database, AI and API usage, email, monitoring, payment or marketplace fees, tools, and marketing for the first 30 and 90 days
-   - labor at a stated, assumed hourly rate
-   - pricing, contribution margin, break-even customer count, and a conservative case
-   - treat CAC and conversion as scenarios unless measured data exists
-9. First customers:
-   - where this exact buyer is reachable from Pakistan, with concrete channels and messaging
-   - a plan for the first 10 customers
-   - weekly sales hours and cash budget
-   - estimated time to first revenue
-   - a cheap pre-build validation experiment with measurable go/no-go thresholds
-   Recommend outreach only; do not do it.
-10. Pakistan operating feasibility: payment collection and payout eligibility for this category (verified vs assumed), platform and API access, app-store rules where relevant, time-zone support, trust, GDPR and any sector obligations, and whether a foreign entity is needed (with its costs).
-11. Devil's advocate and decision: the strongest case against, what would invalidate the thesis, whether each response is credible, the gate scorecard, a conditional recommendation (for example "worth a 3-day paid validation test"), a confidence level, and the immediate next step.
+D. Deep brief for the top candidate in each track (skip a track only if nothing in it scored 50 or more):
+1. Idea and buyer: name, web or mobile, the precise segment and geography, the recurring painful workflow, who pays, why now, the smallest differentiated promise.
+2. Proven model and angle: reference products with traction, what their customers still lack (quoted from reviews, with links), our angle, and how easily incumbents could copy it.
+3. Evidence with numbers: scale, frequency and cost of the problem; reachable customer counts or a bottom-up estimate; current spending. Give the source and date for every external number, and keep your own arithmetic separate.
+4. Competitor table: at least three competitors or substitutes, including manual, free or bundled options, with verified pricing, strengths, evidence-based weaknesses and our entry point.
+5. MVP scope and effort: 3 to 5 capabilities and explicit exclusions; stack, integrations and dependencies; engineering hours by workstream; QA, deployment and support effort; monthly maintenance hours.
+6. Launch plan: day-by-day for Track A (launch by day 10) or week-by-week for Track B (launch by day 30), from day 0 (idea confirmed), including the validation test and any review windows.
+7. Costs and economics: one-time and monthly USD ranges; labor at a stated assumed rate; pricing, contribution margin, break-even customer count, a conservative case. Treat CAC and conversion as scenarios.
+8. First 10 customers: where these buyers are reachable from Pakistan, concrete channels and messaging, weekly sales hours, cash budget, and estimated time to first revenue. Recommend outreach only; do not do it.
+9. Pakistan feasibility: payment and payout path for this category (verified vs assumed), platform and API access, time-zone support, trust, GDPR and sector obligations, and whether a foreign entity is needed.
+10. Devil's advocate: the strongest case against, what would invalidate it, how credible each answer is, a confidence level, and the immediate next step.
 
-C. Rejected this run: one line per rejected candidate, naming the gate it failed. Do not pitch them.
+E. Killed and dropped: one line per candidate with the kill check or score. Do not pitch them.
 
-D. Platform shifts: 2 to 4 items, each with a link and what it opens up.
-
-E. Source notes: which sources produced this run's candidates, and any source whose access differs from SOURCES.md (newly blocked, newly readable, or an untested source you tried).
-
-If no candidate passes for a track, write "No idea passed the research threshold this run" for that track and explain the general blockers.
+F. Source notes: which sources produced candidates, and any source whose access differs from SOURCES.md.
 
 DELIVERABLE 2: DISCORD DIGEST
-Write digests/YYYY-MM-DD.md (same date and suffix as the brief). A GitHub Action posts every new file in digests/ to Discord, so create exactly one digest per run and never edit old ones. Keep it under 3,500 characters, use no tables, and wrap every URL in angle brackets like <https://example.com>. Use this format:
+Write digests/YYYY-MM-DD.md (same date and suffix as the brief). A GitHub Action posts every new file in digests/ to Discord, so create exactly one digest per run and never edit old ones. Keep it under 3,500 characters, use no tables, and wrap every URL in angle brackets like <https://example.com>. Format:
 
 ## Product Radar · {date}
-Scanned all 27 sectors · signals in {n} · shortlisted {sector names}
-**Micro (launch by day 10): {name or "none passed"}** · {channel} · {price} · {score}/30
-One line on the gap, and one line on the first move.
-**Bigger build (launch by day 30): {name or "none passed"}** · {channel} · {price} · {score}/30
-Proven model: {reference product and its traction, in one line}. Our wedge: one line. Verdict and confidence: one line.
-**Rejected:** {n} candidates ({top reasons, in one line})
-**Platform shift:** one line, with a link
+Scanned 27 sectors · {n} news signals · {n} candidates screened
+**Top opportunities**
+1. **{name}** · {score}/100 {VALIDATE or WATCHLIST} · {track} · {sector}
+   Angle: one line. Money proof: one line. Test: one line.
+(repeat for the top 5, fewer only if fewer survived)
+**News that matters**
+- {event, date}: {product angle} <{link}>
+(3 to 5 items)
+**Deadlines coming up:** {the 3 nearest from DEADLINES.md with dates}
 Full brief: <https://github.com/hamzamehboob493/product-radar/blob/main/briefs/{brief file name}>
 
 DELIVERABLE 3: IDEAS INDEX
-Append one row to the table in ideas-index.md for every candidate you screened this run, picked or rejected:
-| {date} | {sector name} | A or B | {idea, a few words} | Picked, Rejected or Returning | {score}/30, or the gate it failed | [brief](briefs/{brief file name}) |
+Append one row to the table in ideas-index.md for every candidate screened this run:
+| {date} | {sector} | A or B | {idea, a few words} | Validate, Watchlist, Dropped or Killed | {score}/100 or the kill check | [brief](briefs/{brief file name}) |
+
+DELIVERABLE 4: DEADLINES CALENDAR
+Update DEADLINES.md: add new dated deadlines with a product angle, keep the table sorted by date, and move entries more than 30 days in the past to the "Passed" section. Do not delete entries.
 
 COMMIT AND PUSH
-- Change only these three files. Never edit PROMPT.md, SOURCES.md, README.md, .github/ or older briefs and digests.
-- Run git pull --rebase, then commit all three files in one commit with the message "radar: YYYY-MM-DD", then push to main.
+- Change only the brief, the digest, ideas-index.md and DEADLINES.md. Never edit PROMPT.md, SOURCES.md, README.md, .github/ or older briefs and digests.
+- Run git pull --rebase, then commit the four files in one commit with the message "radar: YYYY-MM-DD", then push to main.
 - If the push fails, run git pull --rebase and push once more.
 - If it still fails, put the digest and the brief in your final message and state the error in one line.
 

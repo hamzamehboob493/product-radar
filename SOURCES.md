@@ -1,6 +1,6 @@
 # Research sources
 
-The radar's source library: where money is flowing now, the 27 sectors a run rotates through, and which sources a scheduled run can actually read.
+The radar's source library: where money is flowing now, the 27 sectors every run scans, and which sources a scheduled run can actually read.
 
 Last checked: 2026-09-25 (about 75 sources tested). Runs report sources that fail in their brief.
 
@@ -26,9 +26,9 @@ Last checked: 2026-09-25 (about 75 sources tested). Runs report sources that fai
 
 Takeaway: money is concentrating in e-commerce sellers, content creators and communities, entertainment, AI inside tools people already use, AI agents, and developer tools. Platform deprecations keep creating forced-migration demand.
 
-## 2. Sector rotation (27 sectors)
+## 2. Sectors (all 27 are scanned every run)
 
-A run covers 3 sectors: the three after the last ones listed in the previous brief, wrapping back to 1 after 27. Each sector lists who pays, where to hunt, and any cautions. Subreddits are Search access (use `site:reddit.com`).
+Every run scans all 27 sectors, then goes deep on the strongest candidates from any sector. Each sector lists who pays, where to hunt, and any cautions. Subreddits are Search access (use `site:reddit.com`).
 
 1. **E-commerce and marketplace sellers** (Shopify, Amazon, TikTok Shop, Etsy, WooCommerce)
    - Who pays: store owners, brands, agencies.
@@ -197,7 +197,7 @@ A run covers 3 sectors: the three after the last ones listed in the previous bri
 ## 4. How a run should use this
 
 1. **Money scan (about 10 minutes):** check the section 1 sources and the platform-shift sources for anything new since the last run.
-2. **Sector pass:** for each of this run's 3 sectors, triangulate three things:
+2. **Wide scan:** check every one of the 27 sectors and log its strongest signal. Then shortlist the 8 to 12 best candidates from any sectors and triangulate three things for each:
    - proof that money exists (revenue, installs, sales, ad spend)
    - buyer pain (reviews, threads, job posts, "alternative to" searches)
    - a gap (a missing feature, an ignored segment, an abandoned tool, a platform or regulation change)

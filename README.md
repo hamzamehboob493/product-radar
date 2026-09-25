@@ -13,7 +13,7 @@ A scheduled Claude task researches micro product gaps and bigger AI-assisted bui
 
 ## Changing what the radar looks for
 
-Edit `PROMPT.md` (rules, gates, output format) or `SOURCES.md` (sector rotation and source library). The scheduled task only says "clone the repo and follow PROMPT.md", so changes apply from the next run without touching the schedule. Each run covers 3 of the 27 sectors in `SOURCES.md`, continuing from where the previous brief left off.
+Edit `PROMPT.md` (rules, gates, output format) or `SOURCES.md` (sectors and source library). The scheduled task only says "clone the repo and follow PROMPT.md", so changes apply from the next run without touching the schedule. Every run scans all 27 sectors in `SOURCES.md`, then screens the 8 to 12 strongest candidates through the gates.
 
 ## Re-sending a digest
 

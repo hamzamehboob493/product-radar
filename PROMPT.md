@@ -15,15 +15,18 @@ TWO TRACKS
 - Track B, Bigger build: one or two engineers, 1 to 4 weeks of AI-assisted build. Public launch must happen by day 30 after the idea is confirmed, counting validation, build, QA, marketplace or app-store review, and launch prep. If a realistic plan does not fit in 30 days, cut scope until it does or reject the idea.
 
 WHERE TO LOOK
-Read SOURCES.md at the start of every run. It holds the money-now evidence, the 27-sector rotation, and an access-tested source library.
+Read SOURCES.md at the start of every run. It holds the money-now evidence, all 27 sectors, and an access-tested source library.
 
-1. Pick this run's sectors. Find the "Sectors this run" line in the most recent brief and take the next 3 sectors in the SOURCES.md rotation, wrapping from 27 back to 1. If no earlier brief has that line, start with sectors 1, 2 and 3.
-2. Money scan (about 10 minutes, any sector). Check SOURCES.md section 1 and the platform-shift and regulation sources for anything new since the last run. A strong cross-sector signal may add one extra candidate outside the 3 sectors.
-3. Sector pass. For each of the 3 sectors, use that sector's hunting grounds plus the source library, and aim for at least 3 candidates per sector before the gates. Triangulate each candidate:
+Every run searches ALL 27 sectors. Never limit a run to a subset of sectors, and never favor the sectors earlier runs covered.
+
+1. Money scan. Check SOURCES.md section 1 and the platform-shift and regulation sources for anything new since the last run.
+2. Wide scan, all 27 sectors. For every sector in SOURCES.md, spend a few quick searches on its hunting grounds and log the single strongest opportunity signal you find: money moving, fresh buyer pain, or a new gap. If a sector shows nothing, write "no signal" for it. Every sector must appear in the brief's scan table.
+3. Shortlist. From the scan, pick the 8 to 12 strongest candidates across all sectors, ranked by signal strength and not by familiarity. Aim for at least 5 different sectors on the shortlist, and include at least 2 sectors that earlier runs in ideas-index.md have never touched.
+4. Deep screen. Put only the shortlisted candidates through the rejection gates. Triangulate each one:
    - proof that money exists (revenue, installs, sales, ad spend)
    - buyer pain (reviews, threads, job posts, "alternative to" searches)
    - a gap (a missing feature, an ignored segment, an abandoned tool, a platform or regulation change)
-4. Proven models with thin competition are the priority for Track B. Start from products with verified traction (the revenue and exit sources, marketplace leaders). Keep only niches where few serious competitors exist, or where the leaders are stale, overpriced, poorly rated, or ignore a segment. Mine their 1 to 3 star reviews, changelogs, feature request boards and support forums for what customers still lack. Then define our enhancement:
+5. Proven models with thin competition are the priority for Track B. Start from products with verified traction (the revenue and exit sources, marketplace leaders). Keep only niches where few serious competitors exist, or where the leaders are stale, overpriced, poorly rated, or ignore a segment. Mine their 1 to 3 star reviews, changelogs, feature request boards and support forums for what customers still lack. Then define our enhancement:
    - a narrower vertical
    - an underserved geography or language (for example Arabic and RTL for the GCC)
    - a missing integration
@@ -31,7 +34,7 @@ Read SOURCES.md at the start of every run. It holds the money-now evidence, the 
    - a simpler or cheaper tier for small teams
    - a rebuild of an abandoned tool
    We build an independent, differentiated product and never copy code, branding, content or trademarks.
-5. Follow the access notes in SOURCES.md. For sources marked Search, use web search with site: queries. Never work around blocks, and never use connectors that spend credits.
+6. Follow the access notes in SOURCES.md. For sources marked Search, use web search with site: queries. Never work around blocks, and never use connectors that spend credits.
 
 Treat success stories with care. They are often marketing, so prefer verified numbers, allow for survivorship bias, and never treat one story as proof of demand.
 
@@ -95,10 +98,7 @@ Do not claim you checked more history than you actually read.
 DELIVERABLE 1: FULL BRIEF
 Write briefs/YYYY-MM-DD.md (today's date in Asia/Karachi). If that file already exists, use YYYY-MM-DD-2.md, and use the same suffix for the digest. GitHub-flavored markdown; tables are fine here.
 
-The brief starts with this exact line, which the next run uses to continue the rotation:
-Sectors this run: {n}. {sector name}, {n}. {sector name}, {n}. {sector name}
-
-It then contains five parts.
+The brief starts with a scan table covering all 27 sectors: sector, strongest signal found (with a link) or "no signal", and whether it was shortlisted. It then contains five parts.
 
 A. Track A pick (compact):
 - the idea and the buyer
@@ -151,7 +151,7 @@ DELIVERABLE 2: DISCORD DIGEST
 Write digests/YYYY-MM-DD.md (same date and suffix as the brief). A GitHub Action posts every new file in digests/ to Discord, so create exactly one digest per run and never edit old ones. Keep it under 3,500 characters, use no tables, and wrap every URL in angle brackets like <https://example.com>. Use this format:
 
 ## Product Radar · {date}
-Sectors: {the 3 sector names}
+Scanned all 27 sectors · signals in {n} · shortlisted {sector names}
 **Micro (launch by day 10): {name or "none passed"}** · {channel} · {price} · {score}/30
 One line on the gap, and one line on the first move.
 **Bigger build (launch by day 30): {name or "none passed"}** · {channel} · {price} · {score}/30

@@ -48,3 +48,15 @@ Every idea the radar has screened, picked or rejected. Each run reads this first
 | 2026-09-25 | Sales and revenue ops | B | Quoting/CPQ for HubSpot Starter | Rejected | G4 | [brief](briefs/2026-09-25-2.md) |
 | 2026-09-25 | Sales and revenue ops | B | Arabic call-note AI | Rejected | G4 | [brief](briefs/2026-09-25-2.md) |
 | 2026-09-25 | Sales and revenue ops | B | Voice-to-CRM notes / Zoho dedupe | Rejected | G4 | [brief](briefs/2026-09-25-2.md) |
+| 2026-09-25 | Clinic and practice admin | B | CMA compliance kit for UK vets | Rejected | G4 | [brief](briefs/2026-09-25-3.md) |
+| 2026-09-25 | Sales and revenue ops | B | HubSpot integration heartbeat | Rejected | G4 | [brief](briefs/2026-09-25-3.md) |
+| 2026-09-25 | Marketing and advertising | A | Google Ads query-language guard | Rejected | G2 | [brief](briefs/2026-09-25-3.md) |
+| 2026-09-25 | Education and e-learning | B | Docs/Slides accessibility AI fixer | Rejected | G4 | [brief](briefs/2026-09-25-3.md) |
+| 2026-09-25 | Real estate and property management | B | England PRS database registration pack | Rejected | G4 | [brief](briefs/2026-09-25-3.md) |
+| 2026-09-25 | GCC and Arabic-first | B | ZATCA Phase 2 for WooCommerce | Rejected | G2 | [brief](briefs/2026-09-25-3.md) |
+| 2026-09-25 | Automotive | B | Shopmonkey/Tekmetric KPI digest | Rejected | G4 | [brief](briefs/2026-09-25-3.md) |
+| 2026-09-25 | Design and creative professionals | A | Figma design context MCP for coding agents | Rejected | G4 | [brief](briefs/2026-09-25-3.md) |
+| 2026-09-25 | AI agents and automation for small businesses | A | WhatsApp Cloud API spend and username guardrail | Rejected | G3 | [brief](briefs/2026-09-25-3.md) |
+| 2026-09-25 | Home services and construction | A | Jobber bulk price increases | Rejected | G4 | [brief](briefs/2026-09-25-3.md) |
+| 2026-09-25 | Developer tools and AI infrastructure | B | Forge rebuild of stalled Atlassian Connect app | Rejected | G6 | [brief](briefs/2026-09-25-3.md) |
+| 2026-09-25 | Data products and APIs | A | Apify Yelp business and reviews Actor | Rejected | G8 | [brief](briefs/2026-09-25-3.md) |

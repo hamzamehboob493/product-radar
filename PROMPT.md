@@ -6,7 +6,7 @@ MISSION
 Find and screen digital product ideas that Engisols can confirm, build and publicly launch within 30 calendar days, and sell to customers in the US, UK, EU, Australia, New Zealand and the GCC while operating from Pakistan. Report at most one winner per track, and only if it passes every rejection gate. An empty run is a valid result; a weak pick is not.
 
 TEAM AND ASSUMPTIONS
-- Engisols, Lahore: three senior full-stack and AI engineers, about 30 hours a week each. Stack: React/Next.js, Node.js, Rails, Python (FastAPI, Django), Go, PostgreSQL/pgvector, LangChain/LangGraph, RAG, n8n, AWS. Strong domains: scraping and data pipelines, workflow automation, WhatsApp and voice bots, real estate, contractor and home services, legal tech, healthcare admin, CRM, payroll. Not a fit: design-led consumer apps, hardware, anything that needs an enterprise sales team.
+- Engisols, Lahore: three senior full-stack and AI engineers, about 30 hours a week each. Stack: React/Next.js, Node.js, Rails, Python (FastAPI, Django), Go, PostgreSQL/pgvector, LangChain/LangGraph, RAG, n8n, AWS. Past domain experience (scraping and data pipelines, workflow automation, WhatsApp and voice bots, real estate, contractor and home services, legal tech, healthcare admin, CRM, payroll) is a tiebreaker between equal candidates, never a filter on where to look. Not a fit: design-led consumer apps, hardware, anything that needs an enterprise sales team.
 - Development is AI-assisted (coding agents). Estimate effort on that basis, state the assumption, and do not assume AI removes QA, integration, review or support time.
 - Do not assume a US/EU entity, local address, audience or ad budget. Stripe and PayPal are not available in Pakistan.
 
@@ -14,11 +14,16 @@ TWO TRACKS
 - Track A, Micro: one engineer, at most 5 working days of build, public launch by day 10 after the idea is confirmed. Prefer marketplaces with built-in buyers.
 - Track B, Bigger build: one or two engineers, 1 to 4 weeks of AI-assisted build. Public launch must happen by day 30 after the idea is confirmed, counting validation, build, QA, marketplace or app-store review, and launch prep. If a realistic plan does not fit in 30 days, cut scope until it does or reject the idea.
 
-WHERE IDEAS COME FROM (use several sources every run)
-1. Proven models with thin competition (the priority source for Track B). Start from products with verified traction:
-   - public revenue (Indie Hackers product pages, Starter Story, verified-revenue boards such as TrustMRR, and Acquire.com, Microns or Flippa listings)
-   - marketplace traction proxies (Shopify App Store review counts and pricing, Chrome Web Store user counts, Apify Store user and run counts, G2 and Capterra review counts)
-   Keep only niches where few serious competitors exist, or where the leaders are stale, overpriced, poorly rated, or ignore a segment. Mine their 1 to 3 star reviews, changelogs, feature request boards and support forums for what customers still lack. Then define our enhancement:
+WHERE TO LOOK
+Read SOURCES.md at the start of every run. It holds the money-now evidence, the 27-sector rotation, and an access-tested source library.
+
+1. Pick this run's sectors. Find the "Sectors this run" line in the most recent brief and take the next 3 sectors in the SOURCES.md rotation, wrapping from 27 back to 1. If no earlier brief has that line, start with sectors 1, 2 and 3.
+2. Money scan (about 10 minutes, any sector). Check SOURCES.md section 1 and the platform-shift and regulation sources for anything new since the last run. A strong cross-sector signal may add one extra candidate outside the 3 sectors.
+3. Sector pass. For each of the 3 sectors, use that sector's hunting grounds plus the source library, and aim for at least 3 candidates per sector before the gates. Triangulate each candidate:
+   - proof that money exists (revenue, installs, sales, ad spend)
+   - buyer pain (reviews, threads, job posts, "alternative to" searches)
+   - a gap (a missing feature, an ignored segment, an abandoned tool, a platform or regulation change)
+4. Proven models with thin competition are the priority for Track B. Start from products with verified traction (the revenue and exit sources, marketplace leaders). Keep only niches where few serious competitors exist, or where the leaders are stale, overpriced, poorly rated, or ignore a segment. Mine their 1 to 3 star reviews, changelogs, feature request boards and support forums for what customers still lack. Then define our enhancement:
    - a narrower vertical
    - an underserved geography or language (for example Arabic and RTL for the GCC)
    - a missing integration
@@ -26,12 +31,7 @@ WHERE IDEAS COME FROM (use several sources every run)
    - a simpler or cheaper tier for small teams
    - a rebuild of an abandoned tool
    We build an independent, differentiated product and never copy code, branding, content or trademarks.
-2. Complaints and requests:
-   - 1 and 2 star reviews
-   - posts such as "is there a tool that", "how do I automatically" and "looking for an app" in r/shopify, r/ecommerce, r/realtors, r/RealEstate, r/Contractor, r/HVAC, r/smallbusiness, r/n8n, r/SaaS, r/Entrepreneur and niche professional forums
-3. Platform shifts: API deprecations, price hikes, policy changes, and new APIs or marketplaces (Shopify, Google, Meta and WhatsApp Business, OpenAI, Anthropic, Apify, Chrome, Zapier, n8n, app stores).
-4. Spending signals: repeated small freelance jobs with budgets in public Upwork results, and paid templates or services people keep buying for the same job.
-5. Launch traction: what is working on Product Hunt, Show HN, Uneed, Smol Launch and among trending Apify actors, and whether a narrower niche version is missing.
+5. Follow the access notes in SOURCES.md. For sources marked Search, use web search with site: queries. Never work around blocks, and never use connectors that spend credits.
 
 Treat success stories with care. They are often marketing, so prefer verified numbers, allow for survivorship bias, and never treat one story as proof of demand.
 
@@ -87,7 +87,7 @@ Every gate must pass. Failing any single gate rejects the candidate.
 After the gates, rank the surviving ideas on six criteria, each scored 1 to 5 (maximum 30): demand evidence, built-in distribution, build time, payment path, maintenance burden, price power. Gates decide what passes; scores only rank.
 
 DEDUPE (before researching)
-1. Read ideas-index.md in full. It lists every idea earlier runs picked or rejected.
+1. Read ideas-index.md in full. It lists every idea earlier runs picked or rejected, with its sector.
 2. Read the 4 most recent files in briefs/.
 3. Do not re-pitch an earlier idea, or re-screen a rejected one, unless there is major new evidence. If you do, label it "Returning" and say what changed.
 Do not claim you checked more history than you actually read.
@@ -95,7 +95,10 @@ Do not claim you checked more history than you actually read.
 DELIVERABLE 1: FULL BRIEF
 Write briefs/YYYY-MM-DD.md (today's date in Asia/Karachi). If that file already exists, use YYYY-MM-DD-2.md, and use the same suffix for the digest. GitHub-flavored markdown; tables are fine here.
 
-The brief contains four parts.
+The brief starts with this exact line, which the next run uses to continue the rotation:
+Sectors this run: {n}. {sector name}, {n}. {sector name}, {n}. {sector name}
+
+It then contains five parts.
 
 A. Track A pick (compact):
 - the idea and the buyer
@@ -140,12 +143,15 @@ C. Rejected this run: one line per rejected candidate, naming the gate it failed
 
 D. Platform shifts: 2 to 4 items, each with a link and what it opens up.
 
+E. Source notes: which sources produced this run's candidates, and any source whose access differs from SOURCES.md (newly blocked, newly readable, or an untested source you tried).
+
 If no candidate passes for a track, write "No idea passed the research threshold this run" for that track and explain the general blockers.
 
 DELIVERABLE 2: DISCORD DIGEST
 Write digests/YYYY-MM-DD.md (same date and suffix as the brief). A GitHub Action posts every new file in digests/ to Discord, so create exactly one digest per run and never edit old ones. Keep it under 3,500 characters, use no tables, and wrap every URL in angle brackets like <https://example.com>. Use this format:
 
 ## Product Radar · {date}
+Sectors: {the 3 sector names}
 **Micro (launch by day 10): {name or "none passed"}** · {channel} · {price} · {score}/30
 One line on the gap, and one line on the first move.
 **Bigger build (launch by day 30): {name or "none passed"}** · {channel} · {price} · {score}/30
@@ -156,10 +162,10 @@ Full brief: <https://github.com/hamzamehboob493/product-radar/blob/main/briefs/{
 
 DELIVERABLE 3: IDEAS INDEX
 Append one row to the table in ideas-index.md for every candidate you screened this run, picked or rejected:
-| {date} | A or B | {idea, a few words} | Picked, Rejected or Returning | {score}/30, or the gate it failed | [brief](briefs/{brief file name}) |
+| {date} | {sector name} | A or B | {idea, a few words} | Picked, Rejected or Returning | {score}/30, or the gate it failed | [brief](briefs/{brief file name}) |
 
 COMMIT AND PUSH
-- Change only these three files. Never edit PROMPT.md, README.md, .github/ or older briefs and digests.
+- Change only these three files. Never edit PROMPT.md, SOURCES.md, README.md, .github/ or older briefs and digests.
 - Run git pull --rebase, then commit all three files in one commit with the message "radar: YYYY-MM-DD", then push to main.
 - If the push fails, run git pull --rebase and push once more.
 - If it still fails, put the digest and the brief in your final message and state the error in one line.

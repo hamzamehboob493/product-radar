@@ -76,3 +76,16 @@ Rows marked "Rejected" (runs 1 to 3) used an older, too-strict method; the re-sc
 | 2026-09-25 | Sales and revenue ops | B | Re-score: Arabic call-note AI | Dropped | 48/100 | [brief](briefs/2026-09-25-4.md) |
 | 2026-09-25 | GCC and Arabic-first | B | Re-score: ZATCA Phase 2 for WooCommerce | Dropped | 45/100 | [brief](briefs/2026-09-25-4.md) |
 | 2026-09-25 | Marketing and advertising | A | Re-score: Google Ads query-language guard (recheck mid-Nov) | Dropped | 45/100 | [brief](briefs/2026-09-25-4.md) |
+| 2026-09-27 | Legal, accounting and professional services | A | Companies House ID-verification tracker for UK practices | Validate | 67/100 | [brief](briefs/2026-09-27.md) |
+| 2026-09-27 | Logistics, supply chain and manufacturing | A | EU parcel product-identifier (PID) gap checker | Validate | 65/100 | [brief](briefs/2026-09-27.md) |
+| 2026-09-27 | Clinic and practice admin | B | Returning: complaints log + CMA tracker for UK vets (VDS VetResolve, VetGuard entered) | Watchlist | 57/100 | [brief](briefs/2026-09-27.md) |
+| 2026-09-27 | Security and IT for SMBs and MSPs | A | Multi-tenant EWS audit and allow-list for MSPs | Watchlist | 56/100 | [brief](briefs/2026-09-27.md) |
+| 2026-09-27 | Sales and revenue ops | B | Returning: Pipedrive fuzzy merge with undo (Insycle has revert) | Watchlist | 55/100 | [brief](briefs/2026-09-27.md) |
+| 2026-09-27 | Hospitality, restaurants and events | A | US tip W-2 prep (POS export to TP/TTOC totals) | Watchlist | 54/100 | [brief](briefs/2026-09-27.md) |
+| 2026-09-27 | Compliance and regulation-driven products | B | UK/AU subscription reminder and evidence-log kit | Watchlist | 51/100 | [brief](briefs/2026-09-27.md) |
+| 2026-09-27 | Product marketing and SaaS growth | A | ChatGPT Ads offline conversions for GoHighLevel | Watchlist | 50/100 | [brief](briefs/2026-09-27.md) |
+| 2026-09-27 | Compliance and regulation-driven products | A | EU AI Act Art. 50 disclosure checker | Dropped | 45/100 | [brief](briefs/2026-09-27.md) |
+| 2026-09-27 | Marketing and advertising | A | Returning: Google Ads wrong-language spend monitor (no new evidence) | Dropped | 45/100 | [brief](briefs/2026-09-27.md) |
+| 2026-09-27 | Nonprofits, associations and membership | B | WildApricot alternative (bring your own processor) | Dropped | 34/100 | [brief](briefs/2026-09-27.md) |
+| 2026-09-27 | Finance operations for small businesses | B | Belgian Peppol inbound inbox (PDF + ID checks + accounting push) | Killed | K5 | [brief](briefs/2026-09-27.md) |
+| 2026-09-27 | Sales and revenue ops | B | Returning: HubSpot private-app and legacy-API migration auditor | Killed | K5 | [brief](briefs/2026-09-27.md) |

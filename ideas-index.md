@@ -89,3 +89,19 @@ Rows marked "Rejected" (runs 1 to 3) used an older, too-strict method; the re-sc
 | 2026-09-27 | Nonprofits, associations and membership | B | WildApricot alternative (bring your own processor) | Dropped | 34/100 | [brief](briefs/2026-09-27.md) |
 | 2026-09-27 | Finance operations for small businesses | B | Belgian Peppol inbound inbox (PDF + ID checks + accounting push) | Killed | K5 | [brief](briefs/2026-09-27.md) |
 | 2026-09-27 | Sales and revenue ops | B | Returning: HubSpot private-app and legacy-API migration auditor | Killed | K5 | [brief](briefs/2026-09-27.md) |
+| 2026-09-29 | HR, recruiting and freelancing | A | Third-party harassment evidence file for UK SMBs | Validate | 66/100 | [brief](briefs/2026-09-29.md) |
+| 2026-09-29 | HR, recruiting and freelancing | B | Subcontractor right-to-work evidence locker (UK) | Watchlist | 63/100 | [brief](briefs/2026-09-29.md) |
+| 2026-09-29 | Automotive | A | California CARS Act listing price archive for dealers | Watchlist | 62/100 | [brief](briefs/2026-09-29.md) |
+| 2026-09-29 | Compliance and regulation-driven products | B | EU CRA Art. 14 reporting-clock kit | Watchlist | 58/100 | [brief](briefs/2026-09-29.md) |
+| 2026-09-29 | AI agents and automation for small businesses | A | Returning: WhatsApp service-message spend guardrail (Oct 1 pricing) | Watchlist | 55/100 | [brief](briefs/2026-09-29.md) |
+| 2026-09-29 | Security and IT for SMBs and MSPs | A | Entra SMS/voice MFA retirement readiness add-on for MSPs | Watchlist | 54/100 | [brief](briefs/2026-09-29.md) |
+| 2026-09-29 | Hospitality, restaurants and events | A | UK tips-policy consultation kit | Watchlist | 51/100 | [brief](briefs/2026-09-29.md) |
+| 2026-09-29 | Developer tools and AI infrastructure | A | GitHub Copilot seat and credit watchdog | Dropped | 49/100 | [brief](briefs/2026-09-29.md) |
+| 2026-09-29 | Legal, accounting and professional services | B | Flat-price books checker after QuickBooks Online Accountant ends | Dropped | 48/100 | [brief](briefs/2026-09-29.md) |
+| 2026-09-29 | Developer tools and AI infrastructure | A | OpenAI Agent Builder migration | Dropped | 45/100 | [brief](briefs/2026-09-29.md) |
+| 2026-09-29 | Sales and revenue ops | A | Salesforce OAuth device-flow audit | Killed | K5 | [brief](briefs/2026-09-29.md) |
+| 2026-09-29 | Product marketing and SaaS growth | A | Stripe missing default payment method scanner | Killed | K5 | [brief](briefs/2026-09-29.md) |
+| 2026-09-29 | Design and creative professionals | A | Vimeo embed finder and rewriter | Killed | K5 | [brief](briefs/2026-09-29.md) |
+| 2026-09-29 | Real estate and property management | A | Wales visitor-accommodation register pack | Killed | K5 | [brief](briefs/2026-09-29.md) |
+| 2026-09-29 | Marketing and advertising | A | Google call-only ads migration auditor | Killed | K5 | [brief](briefs/2026-09-29.md) |
+| 2026-09-29 | Content creation and the creator economy | A | YouTube Partner Program eligibility tracker | Killed | K5 | [brief](briefs/2026-09-29.md) |

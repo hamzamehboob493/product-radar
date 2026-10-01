@@ -105,3 +105,15 @@ Rows marked "Rejected" (runs 1 to 3) used an older, too-strict method; the re-sc
 | 2026-09-29 | Real estate and property management | A | Wales visitor-accommodation register pack | Killed | K5 | [brief](briefs/2026-09-29.md) |
 | 2026-09-29 | Marketing and advertising | A | Google call-only ads migration auditor | Killed | K5 | [brief](briefs/2026-09-29.md) |
 | 2026-09-29 | Content creation and the creator economy | A | YouTube Partner Program eligibility tracker | Killed | K5 | [brief](briefs/2026-09-29.md) |
+| 2026-10-01 | Marketing and advertising | A | NY + CA synthetic-performer ad disclosure kit | Watchlist | 60/100 | [brief](briefs/2026-10-01.md) |
+| 2026-10-01 | Design and creative professionals | B | Hosted Envato exit kit for non-WordPress authors | Watchlist | 59/100 | [brief](briefs/2026-10-01.md) |
+| 2026-10-01 | Developer tools and AI infrastructure | A | Atlassian automation step-cost analyser (3 Dec billing) | Watchlist | 55/100 | [brief](briefs/2026-10-01.md) |
+| 2026-10-01 | Security and IT for SMBs and MSPs | A | Microsoft Publisher bulk rescue | Dropped | 48/100 | [brief](briefs/2026-10-01.md) |
+| 2026-10-01 | Compliance and regulation-driven products | A | Returning: EmpCo green-claims scanner (rules apply 27 Sep) | Dropped | 47/100 | [brief](briefs/2026-10-01.md) |
+| 2026-10-01 | Automotive | A | CARS Act 3-day cancellation clock for CA dealers | Dropped | 46/100 | [brief](briefs/2026-10-01.md) |
+| 2026-10-01 | Security and IT for SMBs and MSPs | A | Teams-Google two-way calendar sync | Dropped | 42/100 | [brief](briefs/2026-10-01.md) |
+| 2026-10-01 | Security and IT for SMBs and MSPs | A | Teams Live Chat widget replacement | Dropped | 40/100 | [brief](briefs/2026-10-01.md) |
+| 2026-10-01 | Education and e-learning | A | Vimeo On Demand buyer relocation | Dropped | 38/100 | [brief](briefs/2026-10-01.md) |
+| 2026-10-01 | E-commerce and marketplace sellers | A | Shopify multi-barcode bridge | Killed | K5 | [brief](briefs/2026-10-01.md) |
+| 2026-10-01 | Productivity, templates and browser tools | B | Google Workspace Studio connector pack | Killed | K5 | [brief](briefs/2026-10-01.md) |
+| 2026-10-01 | Logistics, supply chain and manufacturing | A | US postal (CBP) duty worksheet builder | Killed | K2 | [brief](briefs/2026-10-01.md) |

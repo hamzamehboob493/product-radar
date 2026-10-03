@@ -130,3 +130,16 @@ Rows marked "Rejected" (runs 1 to 3) used an older, too-strict method; the re-sc
 | 2026-10-03 | Logistics, supply chain and manufacturing | A | Amazon Business business-hour delivery monitor | Dropped | 38/100 | [brief](briefs/2026-10-03.md) |
 | 2026-10-03 | AI agents and automation for small businesses | A | OpenAI deprecated-model scanner for automations | Dropped | 38/100 | [brief](briefs/2026-10-03.md) |
 | 2026-10-03 | Developer tools and AI infrastructure | A | Apiary migration | Killed | K5 | [brief](briefs/2026-10-03.md) |
+| 2026-10-03 | GCC and Arabic-first | A | Returning: Arabic campaign report pack | Watchlist | 64/100 | [brief](briefs/2026-10-03-2.md) |
+| 2026-10-03 | AI agents and automation for small businesses | B | n8n client outcome receipts | Watchlist | 63/100 | [brief](briefs/2026-10-03-2.md) |
+| 2026-10-03 | Logistics, supply chain and manufacturing | B | Battery supplier evidence handoff | Watchlist | 62/100 | [brief](briefs/2026-10-03-2.md) |
+| 2026-10-03 | Finance operations for small businesses | B | Remittance PDF to invoice-match worksheet | Watchlist | 60/100 | [brief](briefs/2026-10-03-2.md) |
+| 2026-10-03 | Compliance and regulation-driven products | A | Australian ADM vendor inventory | Watchlist | 59/100 | [brief](briefs/2026-10-03-2.md) |
+| 2026-10-03 | Security and IT for small businesses and MSPs | A | 100-day TLS renewal drill register | Watchlist | 56/100 | [brief](briefs/2026-10-03-2.md) |
+| 2026-10-03 | Education and e-learning | B | Adult trainer certificate renewal inbox | Watchlist | 55/100 | [brief](briefs/2026-10-03-2.md) |
+| 2026-10-03 | Content creation and the creator economy | B | Podcast sponsorship delivery receipts | Watchlist | 54/100 | [brief](briefs/2026-10-03-2.md) |
+| 2026-10-03 | Nonprofits, associations and membership organisations | B | Overnight adult-volunteer attendance | Watchlist | 52/100 | [brief](briefs/2026-10-03-2.md) |
+| 2026-10-03 | E-commerce and marketplace sellers | A | Stocky historical PO archive | Dropped | 48/100 | [brief](briefs/2026-10-03-2.md) |
+| 2026-10-03 | Real estate and property management | A | Photo-to-room inspection report | Dropped | 47/100 | [brief](briefs/2026-10-03-2.md) |
+| 2026-10-03 | Home services and construction | B | Returning: small-contractor COI tracker | Dropped | 46/100 | [brief](briefs/2026-10-03-2.md) |
+| 2026-10-03 | Compliance and regulation-driven products | A | UK EPR packaging CSV checker | Killed | K5 | [brief](briefs/2026-10-03-2.md) |

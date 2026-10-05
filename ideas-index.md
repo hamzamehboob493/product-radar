@@ -143,3 +143,18 @@ Rows marked "Rejected" (runs 1 to 3) used an older, too-strict method; the re-sc
 | 2026-10-03 | Real estate and property management | A | Photo-to-room inspection report | Dropped | 47/100 | [brief](briefs/2026-10-03-2.md) |
 | 2026-10-03 | Home services and construction | B | Returning: small-contractor COI tracker | Dropped | 46/100 | [brief](briefs/2026-10-03-2.md) |
 | 2026-10-03 | Compliance and regulation-driven products | A | UK EPR packaging CSV checker | Killed | K5 | [brief](briefs/2026-10-03-2.md) |
+| 2026-10-05 | HR, recruiting and freelancing | A | Upwork proposal copilot (human-sends, on-page only) | Watchlist | 62/100 | [brief](briefs/2026-10-05.md) |
+| 2026-10-05 | Finance operations for small businesses | B | Xero claims app after Classic Expenses retirement | Watchlist | 56/100 | [brief](briefs/2026-10-05.md) |
+| 2026-10-05 | Developer tools and AI infrastructure | A | Shopify expiring-token migration kit (PHP/Laravel/Express) | Watchlist | 55/100 | [brief](briefs/2026-10-05.md) |
+| 2026-10-05 | Automotive | B | Core-return tracker from supplier invoices | Watchlist | 50/100 | [brief](briefs/2026-10-05.md) |
+| 2026-10-05 | Marketing and advertising | A | Meta breakdown opt-in auditor | Dropped | 46/100 | [brief](briefs/2026-10-05.md) |
+| 2026-10-05 | Productivity, templates and browser tools | B | Gmail send-as replacement | Dropped | 47/100 | [brief](briefs/2026-10-05.md) |
+| 2026-10-05 | Real estate and property management | A | Zillow rental inquiry responder | Dropped | 44/100 | [brief](briefs/2026-10-05.md) |
+| 2026-10-05 | Home services and construction | A | Thumbtack/Angi lead-credit refund tracker | Dropped | 42/100 | [brief](briefs/2026-10-05.md) |
+| 2026-10-05 | Legal, accounting and professional services | B | Returning: QBO month-end close tracker (Books Close pricing) | Dropped | 40/100 | [brief](briefs/2026-10-05.md) |
+| 2026-10-05 | Sales and revenue ops | A | HubSpot write-validation pre-check | Dropped | 38/100 | [brief](briefs/2026-10-05.md) |
+| 2026-10-05 | Marketing and advertising | A | Facebook link-post first-comment scheduler | Killed | K5 | [brief](briefs/2026-10-05.md) |
+| 2026-10-05 | E-commerce and marketplace sellers | A | Amazon liability insurance certificate tracker | Killed | K5 | [brief](briefs/2026-10-05.md) |
+| 2026-10-05 | Security and IT for small businesses and MSPs | B | M365 licence right-size and re-quote pack | Killed | K5 | [brief](briefs/2026-10-05.md) |
+| 2026-10-05 | Beauty, fitness and personal services | A | Mindbody export migration kit | Killed | K5 | [brief](briefs/2026-10-05.md) |
+| 2026-10-05 | E-commerce and marketplace sellers | A | Shopify agent-readiness audit (Meta Muse) | Killed | K5 | [brief](briefs/2026-10-05.md) |

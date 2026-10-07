@@ -158,3 +158,18 @@ Rows marked "Rejected" (runs 1 to 3) used an older, too-strict method; the re-sc
 | 2026-10-05 | Security and IT for small businesses and MSPs | B | M365 licence right-size and re-quote pack | Killed | K5 | [brief](briefs/2026-10-05.md) |
 | 2026-10-05 | Beauty, fitness and personal services | A | Mindbody export migration kit | Killed | K5 | [brief](briefs/2026-10-05.md) |
 | 2026-10-05 | E-commerce and marketplace sellers | A | Shopify agent-readiness audit (Meta Muse) | Killed | K5 | [brief](briefs/2026-10-05.md) |
+| 2026-10-07 | Compliance and regulation-driven products | A | California AI provenance kit (SB 1000 C2PA signing + verification) | Watchlist | 64/100 | [brief](briefs/2026-10-07.md) |
+| 2026-10-07 | Productivity, templates and browser tools | B | Salesforce Quip exit migrator (comments kept, any destination) | Watchlist | 63/100 | [brief](briefs/2026-10-07.md) |
+| 2026-10-07 | Developer tools and AI infrastructure | A | Zendesk API-token to OAuth migration kit | Watchlist | 55/100 | [brief](briefs/2026-10-07.md) |
+| 2026-10-07 | Security and IT for small businesses and MSPs | B | MSP multi-tenant Copilot usage report | Watchlist | 52/100 | [brief](briefs/2026-10-07.md) |
+| 2026-10-07 | Home services and construction | B | Plans-to-quantities AI for UK/AU builders | Dropped | 45/100 | [brief](briefs/2026-10-07.md) |
+| 2026-10-07 | Nonprofits, associations and membership organisations | A | UK volunteer DBS eligibility and renewal tracker | Dropped | 43/100 | [brief](briefs/2026-10-07.md) |
+| 2026-10-07 | E-commerce and marketplace sellers | A | Shopify market-driven shipping migration preflight | Dropped | 41/100 | [brief](briefs/2026-10-07.md) |
+| 2026-10-07 | Developer tools and AI infrastructure | A | iPhone Duo App Store screenshot generator | Dropped | 37/100 | [brief](briefs/2026-10-07.md) |
+| 2026-10-07 | Legal, accounting and professional services | A | Practice CS payment cutover kit (Stripe move 17 Nov) | Killed | K5 | [brief](briefs/2026-10-07.md) |
+| 2026-10-07 | Finance operations for small businesses | B | Spain B2B e-invoice status reporting add-on | Killed | K5 | [brief](briefs/2026-10-07.md) |
+| 2026-10-07 | Education and e-learning | A | Gemini Gems to Skills migration kit | Killed | K5 | [brief](briefs/2026-10-07.md) |
+| 2026-10-07 | Real estate and property management | A | EU Airbnb single-fee repricing calculator | Killed | K5 | [brief](briefs/2026-10-07.md) |
+| 2026-10-07 | Developer tools and AI infrastructure | A | Opsgenie shutdown migrator | Killed | K5 | [brief](briefs/2026-10-07.md) |
+| 2026-10-07 | GCC and Arabic-first | A | UAE staff-benefits input VAT eligibility checker | Killed | K2 | [brief](briefs/2026-10-07.md) |
+| 2026-10-07 | Data products and APIs | A | MTurk requester migration tool | Killed | K3 | [brief](briefs/2026-10-07.md) |

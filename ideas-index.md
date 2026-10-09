@@ -173,3 +173,14 @@ Rows marked "Rejected" (runs 1 to 3) used an older, too-strict method; the re-sc
 | 2026-10-07 | Developer tools and AI infrastructure | A | Opsgenie shutdown migrator | Killed | K5 | [brief](briefs/2026-10-07.md) |
 | 2026-10-07 | GCC and Arabic-first | A | UAE staff-benefits input VAT eligibility checker | Killed | K2 | [brief](briefs/2026-10-07.md) |
 | 2026-10-07 | Data products and APIs | A | MTurk requester migration tool | Killed | K3 | [brief](briefs/2026-10-07.md) |
+| 2026-10-09 | E-commerce and marketplace sellers | A | Shopify script-tag sunset checker (1 Mar 2027 cutoff) | Validate | 67/100 | [brief](briefs/2026-10-09.md) |
+| 2026-10-09 | Real estate and property management | B | Returning: England PRS agency data pack and 28-day tracker | Watchlist | 62/100 | [brief](briefs/2026-10-09.md) |
+| 2026-10-09 | GCC and Arabic-first | B | Returning: ZATCA Wave 25 connector for Xero/QuickBooks micro firms | Watchlist | 60/100 | [brief](briefs/2026-10-09.md) |
+| 2026-10-09 | Automotive | A | Returning: CA dealer listing archive and price check (MirrorWeb, ComplyAuto entered) | Watchlist | 60/100 | [brief](briefs/2026-10-09.md) |
+| 2026-10-09 | Finance operations for small businesses | B | Harvest exit: scheduler on Harvest/Toggl actuals | Watchlist | 58/100 | [brief](briefs/2026-10-09.md) |
+| 2026-10-09 | Security and IT for small businesses and MSPs | A | Microsoft EST term-end watcher for MSPs | Watchlist | 58/100 | [brief](briefs/2026-10-09.md) |
+| 2026-10-09 | Home services and construction | A | Google LSA pre-migration snapshot and cost per job by trade | Watchlist | 57/100 | [brief](briefs/2026-10-09.md) |
+| 2026-10-09 | AI agents and automation for small businesses | A | Returning: WhatsApp cost meter for agencies (service messages billed 1 Oct) | Watchlist | 54/100 | [brief](briefs/2026-10-09.md) |
+| 2026-10-09 | HR, recruiting and freelancing | B | EU pay transparency SME request kit | Dropped | 48/100 | [brief](briefs/2026-10-09.md) |
+| 2026-10-09 | Sales and revenue ops | A | Salesforce legacy auth (username-password, SOAP login) audit | Killed | K5 | [brief](briefs/2026-10-09.md) |
+| 2026-10-09 | Compliance and regulation-driven products | A | Australia card surcharge wording scanner | Killed | K5 | [brief](briefs/2026-10-09.md) |

@@ -184,3 +184,18 @@ Rows marked "Rejected" (runs 1 to 3) used an older, too-strict method; the re-sc
 | 2026-10-09 | HR, recruiting and freelancing | B | EU pay transparency SME request kit | Dropped | 48/100 | [brief](briefs/2026-10-09.md) |
 | 2026-10-09 | Sales and revenue ops | A | Salesforce legacy auth (username-password, SOAP login) audit | Killed | K5 | [brief](briefs/2026-10-09.md) |
 | 2026-10-09 | Compliance and regulation-driven products | A | Australia card surcharge wording scanner | Killed | K5 | [brief](briefs/2026-10-09.md) |
+| 2026-10-11 | Product marketing and SaaS growth | A | Smartlook exit kit (archive plus PostHog/Mixpanel setup) | Watchlist | 61/100 | [brief](briefs/2026-10-11.md) |
+| 2026-10-11 | Automotive | B | UK car-finance redress evidence pack for dealers | Watchlist | 59/100 | [brief](briefs/2026-10-11.md) |
+| 2026-10-11 | Security and IT for small businesses and MSPs | B | MSP vendor seat reconciler (stale seats vs RMM) | Watchlist | 57/100 | [brief](briefs/2026-10-11.md) |
+| 2026-10-11 | Home services and construction | B | MCS transition paperwork and evidence kit (UK installers) | Watchlist | 55/100 | [brief](briefs/2026-10-11.md) |
+| 2026-10-11 | Compliance and regulation-driven products | A | FCC ID bulk listing validator (FCC 26-50) | Watchlist | 53/100 | [brief](briefs/2026-10-11.md) |
+| 2026-10-11 | Sales and revenue ops | A | HubSpot EMEA credit-burn forecaster | Watchlist | 51/100 | [brief](briefs/2026-10-11.md) |
+| 2026-10-11 | Real estate and property management | A | Illinois rental-fee lease and listing checker | Watchlist | 50/100 | [brief](briefs/2026-10-11.md) |
+| 2026-10-11 | Compliance and regulation-driven products | A | California SB 923 privacy request portal | Dropped | 49/100 | [brief](briefs/2026-10-11.md) |
+| 2026-10-11 | HR, recruiting and freelancing | A | UK union access request log and clock | Dropped | 48/100 | [brief](briefs/2026-10-11.md) |
+| 2026-10-11 | E-commerce and marketplace sellers | A | Amazon provider-access renewal tracker for agencies | Dropped | 46/100 | [brief](briefs/2026-10-11.md) |
+| 2026-10-11 | GCC and Arabic-first | A | UAE SME e-invoicing readiness and provider picker | Dropped | 45/100 | [brief](briefs/2026-10-11.md) |
+| 2026-10-11 | Design and creative professionals | A | Webflow agency repricing audit (16 Nov) | Dropped | 44/100 | [brief](briefs/2026-10-11.md) |
+| 2026-10-11 | Legal, accounting and professional services | A | SRA accountant's report and compliance-role tracker | Dropped | 44/100 | [brief](briefs/2026-10-11.md) |
+| 2026-10-11 | E-commerce and marketplace sellers | A | Amazon manufacturer-bundle policy audit | Dropped | 42/100 | [brief](briefs/2026-10-11.md) |
+| 2026-10-11 | Security and IT for small businesses and MSPs | A | Apple Developer ID .pkg re-sign scanner | Dropped | 40/100 | [brief](briefs/2026-10-11.md) |

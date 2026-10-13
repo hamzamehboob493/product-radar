@@ -199,3 +199,23 @@ Rows marked "Rejected" (runs 1 to 3) used an older, too-strict method; the re-sc
 | 2026-10-11 | Legal, accounting and professional services | A | SRA accountant's report and compliance-role tracker | Dropped | 44/100 | [brief](briefs/2026-10-11.md) |
 | 2026-10-11 | E-commerce and marketplace sellers | A | Amazon manufacturer-bundle policy audit | Dropped | 42/100 | [brief](briefs/2026-10-11.md) |
 | 2026-10-11 | Security and IT for small businesses and MSPs | A | Apple Developer ID .pkg re-sign scanner | Dropped | 40/100 | [brief](briefs/2026-10-11.md) |
+| 2026-10-13 | Legal, accounting and professional services | B | FileCabinet CS self-serve exporter (any destination, 31 Dec 2027 EOL) | Validate | 68/100 | [brief](briefs/2026-10-13.md) |
+| 2026-10-13 | Home services and construction | A | Verizon Connect Work exit archive and Jobber/HCP converter | Watchlist | 58/100 | [brief](briefs/2026-10-13.md) |
+| 2026-10-13 | Finance operations for small businesses | B | Xero read-only archive after Redstor backup exit | Watchlist | 58/100 | [brief](briefs/2026-10-13.md) |
+| 2026-10-13 | E-commerce and marketplace sellers | A | Shopify agentic-order report and GA4/CAPI backfill | Watchlist | 57/100 | [brief](briefs/2026-10-13.md) |
+| 2026-10-13 | Developer tools and AI infrastructure | A | Prisma Accelerate cacheStrategy drop-in (1 Dec 2026) | Watchlist | 55/100 | [brief](briefs/2026-10-13.md) |
+| 2026-10-13 | Product marketing and SaaS growth | B | GetFeedback Direct history archive for non-US customers | Watchlist | 53/100 | [brief](briefs/2026-10-13.md) |
+| 2026-10-13 | Nonprofits, associations and membership organisations | A | Martyn's Law standard-tier kit on SIA templates | Watchlist | 52/100 | [brief](briefs/2026-10-13.md) |
+| 2026-10-13 | AI agents and automation for small businesses | B | Self-serve vertical agent pack for roofers (Roofclaw model) | Dropped | 49/100 | [brief](briefs/2026-10-13.md) |
+| 2026-10-13 | Logistics, supply chain and manufacturing | A | FedEx 2027 GRI label-file impact report | Dropped | 48/100 | [brief](briefs/2026-10-13.md) |
+| 2026-10-13 | Design and creative professionals | B | Figma Make bring-your-own-key prototyping plugin | Dropped | 47/100 | [brief](briefs/2026-10-13.md) |
+| 2026-10-13 | E-commerce and marketplace sellers | A | Google Merchant AI feed-attribute filler (fold into 500px fixer) | Dropped | 47/100 | [brief](briefs/2026-10-13.md) |
+| 2026-10-13 | Consumer hobby niches with paying users | B | Interactive crochet/knitting pattern converter for designers | Dropped | 46/100 | [brief](briefs/2026-10-13.md) |
+| 2026-10-13 | Marketing and advertising | A | Meta Advantage+ enhancement guard | Dropped | 44/100 | [brief](briefs/2026-10-13.md) |
+| 2026-10-13 | Security and IT for small businesses and MSPs | A | M365 Targeted Release ring audit for MSPs | Dropped | 44/100 | [brief](briefs/2026-10-13.md) |
+| 2026-10-13 | Content creation and the creator economy | A | beehiiv cost-and-switch kit | Dropped | 42/100 | [brief](briefs/2026-10-13.md) |
+| 2026-10-13 | Marketing and advertising | A | Google Ads auto-promotion monitor | Dropped | 42/100 | [brief](briefs/2026-10-13.md) |
+| 2026-10-13 | Data products and APIs | A | Reddit RSS replacement Devvit alert relay | Dropped | 38/100 | [brief](briefs/2026-10-13.md) |
+| 2026-10-13 | Hospitality, restaurants and events | B | GloriaFood ordering replacement | Killed | K5 | [brief](briefs/2026-10-13.md) |
+| 2026-10-13 | HR, recruiting and freelancing | A | Freshteam exit kit | Killed | K5 | [brief](briefs/2026-10-13.md) |
+| 2026-10-13 | GCC and Arabic-first | A | UAE Emiratisation quota tracker | Killed | K5 | [brief](briefs/2026-10-13.md) |

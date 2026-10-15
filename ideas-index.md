@@ -219,3 +219,17 @@ Rows marked "Rejected" (runs 1 to 3) used an older, too-strict method; the re-sc
 | 2026-10-13 | Hospitality, restaurants and events | B | GloriaFood ordering replacement | Killed | K5 | [brief](briefs/2026-10-13.md) |
 | 2026-10-13 | HR, recruiting and freelancing | A | Freshteam exit kit | Killed | K5 | [brief](briefs/2026-10-13.md) |
 | 2026-10-13 | GCC and Arabic-first | A | UAE Emiratisation quota tracker | Killed | K5 | [brief](briefs/2026-10-13.md) |
+| 2026-10-15 | Security and IT for SMBs and MSPs | B | SMTP AUTH multi-tenant usage audit for MSPs (end Dec 2026 switch-off) | Validate | 66/100 | [brief](briefs/2026-10-15.md) |
+| 2026-10-15 | Marketing and advertising | A | Returning: ChatGPT Ads conversions for GoHighLevel (no GHL connector; Shopify analogues paid) | Watchlist | 59/100 | [brief](briefs/2026-10-15.md) |
+| 2026-10-15 | Compliance and regulation | B | California SB 1119 minor-mode SDK for companion chatbots | Watchlist | 58/100 | [brief](briefs/2026-10-15.md) |
+| 2026-10-15 | Developer tools | A | Deno Deploy KV exit kit (Deploy shuts about Apr 2027) | Watchlist | 53/100 | [brief](briefs/2026-10-15.md) |
+| 2026-10-15 | Beauty, fitness and personal services | A | Fresha new-client fee auditor | Watchlist | 51/100 | [brief](briefs/2026-10-15.md) |
+| 2026-10-15 | Real estate and property management | B | STR turnover damage-claim evidence log (Airbnb 14/30-day rules) | Dropped | 49/100 | [brief](briefs/2026-10-15.md) |
+| 2026-10-15 | Productivity | A | Gmail to Notion live sync after Notion Mail shutdown | Dropped | 47/100 | [brief](briefs/2026-10-15.md) |
+| 2026-10-15 | Logistics | A | Faire third-party shipping cost filler | Dropped | 47/100 | [brief](briefs/2026-10-15.md) |
+| 2026-10-15 | Developer tools | A | LLM model-drift and retirement monitor | Dropped | 39/100 | [brief](briefs/2026-10-15.md) |
+| 2026-10-15 | Developer tools | A | Firebase Test Lab migration kit | Killed | K5 | [brief](briefs/2026-10-15.md) |
+| 2026-10-15 | Education and e-learning | B | Kajabi exit kit | Killed | K5 | [brief](briefs/2026-10-15.md) |
+| 2026-10-15 | GCC and Arabic-first | B | Oman Fawtara e-invoicing connector for SMB ledgers | Killed | K6 | [brief](briefs/2026-10-15.md) |
+| 2026-10-15 | Hospitality | A | Quandoo guest-book rescue | Killed | K3 | [brief](briefs/2026-10-15.md) |
+| 2026-10-15 | Legal, accounting and professional services | B | UK practice software exporter (BTC desktop, IRIS PTP, Keytime) | Killed | K5 | [brief](briefs/2026-10-15.md) |

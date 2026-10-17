@@ -233,3 +233,18 @@ Rows marked "Rejected" (runs 1 to 3) used an older, too-strict method; the re-sc
 | 2026-10-15 | GCC and Arabic-first | B | Oman Fawtara e-invoicing connector for SMB ledgers | Killed | K6 | [brief](briefs/2026-10-15.md) |
 | 2026-10-15 | Hospitality | A | Quandoo guest-book rescue | Killed | K3 | [brief](briefs/2026-10-15.md) |
 | 2026-10-15 | Legal, accounting and professional services | B | UK practice software exporter (BTC desktop, IRIS PTP, Keytime) | Killed | K5 | [brief](briefs/2026-10-15.md) |
+| 2026-10-17 | Productivity, templates and browser tools | B | Power BI Q&A replacement for Pro-only tenants (Q&A retired end Dec 2026) | Watchlist | 62/100 | [brief](briefs/2026-10-17.md) |
+| 2026-10-17 | HR, recruiting and freelancing | B | UK freelancer engagement evidence file (employment status consultation) | Watchlist | 57/100 | [brief](briefs/2026-10-17.md) |
+| 2026-10-17 | E-commerce and marketplace sellers | B | Returning: Shopify AI-channel exposure control and agentic-order backfill | Watchlist | 55/100 | [brief](briefs/2026-10-17.md) |
+| 2026-10-17 | Compliance and regulation-driven products | B | California SB 947 ADM review log and notice (merge with AU ADM inventory) | Watchlist | 55/100 | [brief](briefs/2026-10-17.md) |
+| 2026-10-17 | Education and e-learning | A | California AB 1159 edtech AI-training attestation pack | Watchlist | 52/100 | [brief](briefs/2026-10-17.md) |
+| 2026-10-17 | Finance operations for small businesses | A | Xero practice subscription right-sizer (multi-org discount ends) | Watchlist | 51/100 | [brief](briefs/2026-10-17.md) |
+| 2026-10-17 | Real estate and property management | A | CT/IL deposit clock and fee ledger (fold into IL checker) | Watchlist | 50/100 | [brief](briefs/2026-10-17.md) |
+| 2026-10-17 | Security and IT for small businesses and MSPs | A | Returning: TLS renewal scanner (Let's Encrypt 64-day certs) | Dropped | 49/100 | [brief](briefs/2026-10-17.md) |
+| 2026-10-17 | E-commerce and marketplace sellers | A | Amazon fee-category reassignment monitor | Dropped | 49/100 | [brief](briefs/2026-10-17.md) |
+| 2026-10-17 | Security and IT for small businesses and MSPs | B | Kaseya VSA 9 vendor-neutral exit kit | Dropped | 48/100 | [brief](briefs/2026-10-17.md) |
+| 2026-10-17 | AI agents and automation for small businesses | A | Vapi/Retell cost and concurrency meter for agencies | Dropped | 48/100 | [brief](briefs/2026-10-17.md) |
+| 2026-10-17 | Compliance and regulation-driven products | A | EU CRA support-period and battery info badge for shops | Dropped | 47/100 | [brief](briefs/2026-10-17.md) |
+| 2026-10-17 | Marketing and advertising | A | Returning: Meta product-browsing guard (28 Oct default-on) | Dropped | 43/100 | [brief](briefs/2026-10-17.md) |
+| 2026-10-17 | HR, recruiting and freelancing | A | Fetcher shutdown pipeline rescue | Killed | K3 | [brief](briefs/2026-10-17.md) |
+| 2026-10-17 | Education and e-learning | A | Classroom 50 LMS roster and grade sync | Killed | K4 | [brief](briefs/2026-10-17.md) |

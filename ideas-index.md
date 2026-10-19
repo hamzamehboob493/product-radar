@@ -248,3 +248,15 @@ Rows marked "Rejected" (runs 1 to 3) used an older, too-strict method; the re-sc
 | 2026-10-17 | Marketing and advertising | A | Returning: Meta product-browsing guard (28 Oct default-on) | Dropped | 43/100 | [brief](briefs/2026-10-17.md) |
 | 2026-10-17 | HR, recruiting and freelancing | A | Fetcher shutdown pipeline rescue | Killed | K3 | [brief](briefs/2026-10-17.md) |
 | 2026-10-17 | Education and e-learning | A | Classroom 50 LMS roster and grade sync | Killed | K4 | [brief](briefs/2026-10-17.md) |
+| 2026-10-19 | Automotive | B | Returning: UK motor-finance redress request desk for dealers (scheme partly suspended; broker 1-month document duty stands) | Watchlist | 61/100 | [brief](briefs/2026-10-19.md) |
+| 2026-10-19 | Sales and revenue ops | A | Zendesk Sell full-history archive (31 Aug 2027 deletion; Import2 covers most) | Watchlist | 54/100 | [brief](briefs/2026-10-19.md) |
+| 2026-10-19 | Product marketing and SaaS growth | B | AI product-tour widget after Userpilot/Product Fruits changes | Dropped | 48/100 | [brief](briefs/2026-10-19.md) |
+| 2026-10-19 | Home services and construction | A | AIA-style pay-app generator (Knowify change) | Dropped | 48/100 | [brief](briefs/2026-10-19.md) |
+| 2026-10-19 | E-commerce and marketplace sellers | A | Amazon settlement V1-to-V2 converter (11 Nov 2026) | Dropped | 46/100 | [brief](briefs/2026-10-19.md) |
+| 2026-10-19 | Marketing and advertising | B | Cheap FB/IG ad-comment moderation (NapoleonCat change unverified) | Dropped | 45/100 | [brief](briefs/2026-10-19.md) |
+| 2026-10-19 | Security and IT for SMBs and MSPs | A | Acronis Files Connect exit inventory (31 Dec 2026) | Dropped | 44/100 | [brief](briefs/2026-10-19.md) |
+| 2026-10-19 | Marketing and advertising | A | Apple Ads to Sheets/Looker connector (API sunset 26 Jan 2027) | Dropped | 43/100 | [brief](briefs/2026-10-19.md) |
+| 2026-10-19 | Entertainment, media and communities | A | Discord bot private-channel auditor (16 Nov) | Dropped | 41/100 | [brief](briefs/2026-10-19.md) |
+| 2026-10-19 | Data products and APIs | A | Apify Actors for GCC job boards | Dropped | 37/100 | [brief](briefs/2026-10-19.md) |
+| 2026-10-19 | Productivity, templates and browser tools | A | Notion Workers spend guard | Dropped | 36/100 | [brief](briefs/2026-10-19.md) |
+| 2026-10-19 | E-commerce and marketplace sellers | A | Content API to Merchant API migration kit | Killed | K5 | [brief](briefs/2026-10-19.md) |

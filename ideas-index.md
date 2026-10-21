@@ -260,3 +260,20 @@ Rows marked "Rejected" (runs 1 to 3) used an older, too-strict method; the re-sc
 | 2026-10-19 | Data products and APIs | A | Apify Actors for GCC job boards | Dropped | 37/100 | [brief](briefs/2026-10-19.md) |
 | 2026-10-19 | Productivity, templates and browser tools | A | Notion Workers spend guard | Dropped | 36/100 | [brief](briefs/2026-10-19.md) |
 | 2026-10-19 | E-commerce and marketplace sellers | A | Content API to Merchant API migration kit | Killed | K5 | [brief](briefs/2026-10-19.md) |
+| 2026-10-21 | Productivity, templates and browser tools | B | Gmail Simple MAPI bridge (Affixa replacement; renewals refused from 1 Nov, shuts 31 Jan 2027) | Validate | 66/100 | [brief](briefs/2026-10-21.md) |
+| 2026-10-21 | Developer tools and AI infrastructure | B | Apple 1.2 safety kit for AI content apps (16 Oct guideline revision) | Validate | 65/100 | [brief](briefs/2026-10-21.md) |
+| 2026-10-21 | HR, recruiting and freelancing | A | California SB 464 job-title to SOC mapper (May 2027 filing) | Watchlist | 64/100 | [brief](briefs/2026-10-21.md) |
+| 2026-10-21 | Logistics, supply chain and manufacturing | A | Carrier DIM box auditor (USPS 139 divisor, peak surcharges) | Watchlist | 64/100 | [brief](briefs/2026-10-21.md) |
+| 2026-10-21 | Compliance and regulation-driven products | A | Returning: Companies House IDV portfolio tracker (API field added; Inform Direct shows status) | Watchlist | 63/100 | [brief](briefs/2026-10-21.md) |
+| 2026-10-21 | Security and IT for small businesses and MSPs | A | Windows 10 ESU Year 2 register for MSPs | Watchlist | 58/100 | [brief](briefs/2026-10-21.md) |
+| 2026-10-21 | E-commerce and marketplace sellers | B | EAA theme-level accessibility audit for EU shops | Watchlist | 56/100 | [brief](briefs/2026-10-21.md) |
+| 2026-10-21 | GCC and Arabic-first | B | Gulf-Arabic AI receptionist with WhatsApp follow-up | Watchlist | 55/100 | [brief](briefs/2026-10-21.md) |
+| 2026-10-21 | Sales and revenue ops | B | Trigify replacement Apify Actor (shut 22 Oct) | Watchlist | 55/100 | [brief](briefs/2026-10-21.md) |
+| 2026-10-21 | Developer tools and AI infrastructure | A | Zeabur exit kit (services stop 31 Dec 2026) | Watchlist | 50/100 | [brief](briefs/2026-10-21.md) |
+| 2026-10-21 | GCC and Arabic-first | B | Salla App Store port of a Shopify pattern | Dropped | 48/100 | [brief](briefs/2026-10-21.md) |
+| 2026-10-21 | Real estate and property management | A | California AB 723 altered-photo disclosure kit | Dropped | 44/100 | [brief](briefs/2026-10-21.md) |
+| 2026-10-21 | Entertainment, media and communities | A | Skool admin automation pack | Dropped | 40/100 | [brief](briefs/2026-10-21.md) |
+| 2026-10-21 | Sales and revenue ops | A | Returning: HubSpot EMEA credit-burn forecaster (native caps shipped 15 Oct) | Dropped | 38/100 | [brief](briefs/2026-10-21.md) |
+| 2026-10-21 | Legal, accounting and professional services | B | LawPay to Clio payment recorder | Killed | K3 | [brief](briefs/2026-10-21.md) |
+| 2026-10-21 | HR, recruiting and freelancing | A | WA/SF Fair Chance adverse-action workflow | Killed | K5 | [brief](briefs/2026-10-21.md) |
+| 2026-10-21 | Marketing and advertising | A | Meta placement value-rules auditor | Killed | K5 | [brief](briefs/2026-10-21.md) |

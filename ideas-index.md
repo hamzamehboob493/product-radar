@@ -277,3 +277,18 @@ Rows marked "Rejected" (runs 1 to 3) used an older, too-strict method; the re-sc
 | 2026-10-21 | Legal, accounting and professional services | B | LawPay to Clio payment recorder | Killed | K3 | [brief](briefs/2026-10-21.md) |
 | 2026-10-21 | HR, recruiting and freelancing | A | WA/SF Fair Chance adverse-action workflow | Killed | K5 | [brief](briefs/2026-10-21.md) |
 | 2026-10-21 | Marketing and advertising | A | Meta placement value-rules auditor | Killed | K5 | [brief](briefs/2026-10-21.md) |
+| 2026-10-23 | Compliance and regulation-driven products | B | Returning: UK subscription notice and evidence engine (draft regs 22 Oct, 1 Jan 2027, no grace) | Watchlist | 59/100 | [brief](briefs/2026-10-23.md) |
+| 2026-10-23 | Marketing and advertising | A | Returning: Meta/ChatGPT Ads AI-edit evidence log (advertiser liability from 30 Oct) | Watchlist | 55/100 | [brief](briefs/2026-10-23.md) |
+| 2026-10-23 | Data products and APIs | A | Google Custom Search JSON API drop-in (ends 1 Jan 2027) | Watchlist | 52/100 | [brief](briefs/2026-10-23.md) |
+| 2026-10-23 | HR, recruiting and freelancing | A | Colorado SB 26-189 hiring-tool notice and record kit (merge with CA SB 947 log) | Watchlist | 52/100 | [brief](briefs/2026-10-23.md) |
+| 2026-10-23 | Home services and construction | A | Google LSA missed-call charge auditor (billed from 1 Oct) | Watchlist | 51/100 | [brief](briefs/2026-10-23.md) |
+| 2026-10-23 | Security and IT for small businesses and MSPs | A | Returning: MSP Copilot usage-billing guard (CSP PAYG default 1 Dec) | Watchlist | 50/100 | [brief](briefs/2026-10-23.md) |
+| 2026-10-23 | Developer tools and AI infrastructure | A | Perspective API compatible moderation endpoint (ends 31 Dec) | Dropped | 49/100 | [brief](briefs/2026-10-23.md) |
+| 2026-10-23 | AI agents and automation for small businesses | A | WhatsApp marketing-template router (Cloud API marketing ends 13 Oct 2027) | Dropped | 48/100 | [brief](briefs/2026-10-23.md) |
+| 2026-10-23 | Legal, accounting and professional services | A | Pre-filing court rejection checker for TX/FL/IL/NY | Dropped | 46/100 | [brief](briefs/2026-10-23.md) |
+| 2026-10-23 | Developer tools and AI infrastructure | A | Shopify small-app security audit (20 Oct security push) | Dropped | 45/100 | [brief](briefs/2026-10-23.md) |
+| 2026-10-23 | Productivity, templates and browser tools | A | Calendar-to-mileage log for Outlook | Dropped | 42/100 | [brief](briefs/2026-10-23.md) |
+| 2026-10-23 | Real estate and property management | A | Property Hawk record rebuilder (UK landlords) | Dropped | 40/100 | [brief](briefs/2026-10-23.md) |
+| 2026-10-23 | Real estate and property management | A | Office-exclusive seller waiver and 1-day MLS clock | Dropped | 40/100 | [brief](briefs/2026-10-23.md) |
+| 2026-10-23 | Consumer hobby niches with paying users | A | Club challenges after Strava club API removal | Dropped | 38/100 | [brief](briefs/2026-10-23.md) |
+| 2026-10-23 | Finance operations for small businesses | B | Sage BusinessVision exit kit (Canada) | Dropped | 35/100 | [brief](briefs/2026-10-23.md) |

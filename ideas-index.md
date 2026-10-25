@@ -292,3 +292,17 @@ Rows marked "Rejected" (runs 1 to 3) used an older, too-strict method; the re-sc
 | 2026-10-23 | Real estate and property management | A | Office-exclusive seller waiver and 1-day MLS clock | Dropped | 40/100 | [brief](briefs/2026-10-23.md) |
 | 2026-10-23 | Consumer hobby niches with paying users | A | Club challenges after Strava club API removal | Dropped | 38/100 | [brief](briefs/2026-10-23.md) |
 | 2026-10-23 | Finance operations for small businesses | B | Sage BusinessVision exit kit (Canada) | Dropped | 35/100 | [brief](briefs/2026-10-23.md) |
+| 2026-10-25 | HR, recruiting and freelancing | A | Returning: Upwork proposal copilot, human sends, Connects ledger (Lancer $18k MRR verified) | Validate | 65/100 | [brief](briefs/2026-10-25.md) |
+| 2026-10-25 | Marketing and advertising | A | Returning merge: AI ad-automation exposure audit (PMax image extraction 4 Dec + Meta AI edits) | Watchlist | 57/100 | [brief](briefs/2026-10-25.md) |
+| 2026-10-25 | Developer tools and AI infrastructure | A | Returning: OpenAI fine-tune exit kit (4o/4.1 fine-tunes end 14 Jan 2027) | Watchlist | 55/100 | [brief](briefs/2026-10-25.md) |
+| 2026-10-25 | Compliance and regulation-driven products | B | UK Digital Waste Tracking capture app for small carriers | Watchlist | 52/100 | [brief](briefs/2026-10-25.md) |
+| 2026-10-25 | Home services and construction | A | Returning: Jobber supplier cost and price-book updater (staff confirm gap) | Watchlist | 51/100 | [brief](briefs/2026-10-25.md) |
+| 2026-10-25 | GCC and Arabic-first | A | UAE PINT-AE master-data preflight | Watchlist | 50/100 | [brief](briefs/2026-10-25.md) |
+| 2026-10-25 | Security and IT for small businesses and MSPs | A | MSP Microsoft Q4 retirement pack (fold into SMTP AUTH audit) | Dropped | 48/100 | [brief](briefs/2026-10-25.md) |
+| 2026-10-25 | AI agents and automation for small businesses | A | Returning: n8n/Make model-swap scanner (n8n Evaluations native) | Dropped | 47/100 | [brief](briefs/2026-10-25.md) |
+| 2026-10-25 | GCC and Arabic-first | B | WhatsApp commerce on an unserved GCC channel (Pushouse model) | Dropped | 47/100 | [brief](briefs/2026-10-25.md) |
+| 2026-10-25 | E-commerce and marketplace sellers | A | Amazon Orders v0 / Make module migration scanner (27 Mar 2027) | Dropped | 42/100 | [brief](briefs/2026-10-25.md) |
+| 2026-10-25 | HR, recruiting and freelancing | A | UK right-to-join-a-union statement delivery and proof | Dropped | 42/100 | [brief](briefs/2026-10-25.md) |
+| 2026-10-25 | Sales and revenue ops | A | Cross-provider phone-number reputation monitor | Dropped | 41/100 | [brief](briefs/2026-10-25.md) |
+| 2026-10-25 | Developer tools and AI infrastructure | A | Twilio Notify compatible endpoint (EOL 31 Jan 2027) | Dropped | 40/100 | [brief](briefs/2026-10-25.md) |
+| 2026-10-25 | Nonprofits, associations and membership organisations | A | WildApricot cost check and exit kit | Dropped | 35/100 | [brief](briefs/2026-10-25.md) |

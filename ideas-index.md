@@ -306,3 +306,16 @@ Rows marked "Rejected" (runs 1 to 3) used an older, too-strict method; the re-sc
 | 2026-10-25 | Sales and revenue ops | A | Cross-provider phone-number reputation monitor | Dropped | 41/100 | [brief](briefs/2026-10-25.md) |
 | 2026-10-25 | Developer tools and AI infrastructure | A | Twilio Notify compatible endpoint (EOL 31 Jan 2027) | Dropped | 40/100 | [brief](briefs/2026-10-25.md) |
 | 2026-10-25 | Nonprofits, associations and membership organisations | A | WildApricot cost check and exit kit | Dropped | 35/100 | [brief](briefs/2026-10-25.md) |
+| 2026-10-27 | HR, recruiting and freelancing | A | UK 6-month qualifying-service clock for payroll bureaus (1 Jan 2027) | Watchlist | 63/100 | [brief](briefs/2026-10-27.md) |
+| 2026-10-27 | Automotive | A | California SB 988 auto glass ADAS disclosure and calibration-notice kit | Watchlist | 56/100 | [brief](briefs/2026-10-27.md) |
+| 2026-10-27 | Content creation and the creator economy | B | Agent-first social reporting layer, CLI + MCP (Postiz model) | Watchlist | 54/100 | [brief](briefs/2026-10-27.md) |
+| 2026-10-27 | Legal, accounting and professional services | A | Tax-firm AI-tool register and WISP evidence pack (PTIN renewal) | Watchlist | 53/100 | [brief](briefs/2026-10-27.md) |
+| 2026-10-27 | Beauty, fitness and personal services | A | Returning merge: Booksy Boost and Fresha new-client fee auditor | Watchlist | 50/100 | [brief](briefs/2026-10-27.md) |
+| 2026-10-27 | Productivity, templates and browser tools | A | Arc to Chrome/Edge converter (Arc stops 22 Dec) | Dropped | 44/100 | [brief](briefs/2026-10-27.md) |
+| 2026-10-27 | GCC and Arabic-first | B | Saudi PDPL marketing-consent record (draft amendments) | Dropped | 44/100 | [brief](briefs/2026-10-27.md) |
+| 2026-10-27 | Sales and revenue ops | A | FCC TCPA opt-out disclosure checker and log (FCC 26-67) | Dropped | 42/100 | [brief](briefs/2026-10-27.md) |
+| 2026-10-27 | AI agents and automation for small businesses | B | CRM and booking connectors for Meta Business Agent | Dropped | 42/100 | [brief](briefs/2026-10-27.md) |
+| 2026-10-27 | Real estate and property management | A | Airbnb checkout-chore sweep (20 Nov) | Dropped | 41/100 | [brief](briefs/2026-10-27.md) |
+| 2026-10-27 | Clinic and practice admin | B | NueMD exit archive (31 Dec 2026) | Dropped | 38/100 | [brief](briefs/2026-10-27.md) |
+| 2026-10-27 | E-commerce and marketplace sellers | A | Amazon prepaid return-label deadline tool (18 Dec) | Killed | K5 | [brief](briefs/2026-10-27.md) |
+| 2026-10-27 | Compliance and regulation-driven products | A | EUDR reference-record locker for WooCommerce | Killed | K5 | [brief](briefs/2026-10-27.md) |

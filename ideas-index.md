@@ -319,3 +319,15 @@ Rows marked "Rejected" (runs 1 to 3) used an older, too-strict method; the re-sc
 | 2026-10-27 | Clinic and practice admin | B | NueMD exit archive (31 Dec 2026) | Dropped | 38/100 | [brief](briefs/2026-10-27.md) |
 | 2026-10-27 | E-commerce and marketplace sellers | A | Amazon prepaid return-label deadline tool (18 Dec) | Killed | K5 | [brief](briefs/2026-10-27.md) |
 | 2026-10-27 | Compliance and regulation-driven products | A | EUDR reference-record locker for WooCommerce | Killed | K5 | [brief](briefs/2026-10-27.md) |
+| 2026-10-29 | Compliance and regulation-driven products | B | Returning: EU-ready C2PA signing API for open-weights AI apps (Art. 50(2) grace ends 2 Dec; big image APIs already mark) | Watchlist | 61/100 | [brief](briefs/2026-10-29.md) |
+| 2026-10-29 | Security and IT for small businesses and MSPs | B | Returning: MSP cross-tenant Copilot credit monitor (CSP pay-as-you-go 1 Dec, per-tenant controls only) | Watchlist | 57/100 | [brief](briefs/2026-10-29.md) |
+| 2026-10-29 | Design and creative professionals | A | Returning: hosted Envato purchase-code bridge (ChargePanda $19 self-hosted exists) | Watchlist | 56/100 | [brief](briefs/2026-10-29.md) |
+| 2026-10-29 | Home services and construction | A | Returning: Jobber supplier price-file updater (Pricebookr $49 pushes to Jobber) | Watchlist | 50/100 | [brief](briefs/2026-10-29.md) |
+| 2026-10-29 | E-commerce and marketplace sellers | A | CBP Entry Type 13 listing data checker (20 Jan 2027) | Dropped | 47/100 | [brief](briefs/2026-10-29.md) |
+| 2026-10-29 | Content creation and the creator economy | B | Niche social content tool on the Marky model | Dropped | 44/100 | [brief](briefs/2026-10-29.md) |
+| 2026-10-29 | Compliance and regulation-driven products | A | California AB 2561 privacy-setting regression test | Dropped | 41/100 | [brief](briefs/2026-10-29.md) |
+| 2026-10-29 | Security and IT for small businesses and MSPs | A | Returning: multi-tenant EWS audit (allow-list enforced 10 Oct; free report and scripts) | Killed | K5 | [brief](briefs/2026-10-29.md) |
+| 2026-10-29 | Finance operations for small businesses | A | German XRechnung/ZUGFeRD for Shopify and Woo sellers (1 Jan 2027) | Killed | K5 | [brief](briefs/2026-10-29.md) |
+| 2026-10-29 | Legal, accounting and professional services | A | Bank of Scotland BFA exit converter (14 Dec) | Killed | K5 | [brief](briefs/2026-10-29.md) |
+| 2026-10-29 | Product marketing and SaaS growth | A | Pulley cap-table exit kit (8 Dec) | Killed | K5 | [brief](briefs/2026-10-29.md) |
+| 2026-10-29 | Data products and APIs | A | Returning: Reddit alert relay after API/RSS closure | Killed | K2 | [brief](briefs/2026-10-29.md) |

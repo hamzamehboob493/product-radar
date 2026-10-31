@@ -331,3 +331,16 @@ Rows marked "Rejected" (runs 1 to 3) used an older, too-strict method; the re-sc
 | 2026-10-29 | Legal, accounting and professional services | A | Bank of Scotland BFA exit converter (14 Dec) | Killed | K5 | [brief](briefs/2026-10-29.md) |
 | 2026-10-29 | Product marketing and SaaS growth | A | Pulley cap-table exit kit (8 Dec) | Killed | K5 | [brief](briefs/2026-10-29.md) |
 | 2026-10-29 | Data products and APIs | A | Returning: Reddit alert relay after API/RSS closure | Killed | K2 | [brief](briefs/2026-10-29.md) |
+| 2026-10-31 | Compliance and regulation-driven products | A | Returning: Australian ADM disclosure kit (inventory, vendor questionnaire, APP 1.8 draft; 10 Dec 2026) | Watchlist | 58/100 | [brief](briefs/2026-10-31.md) |
+| 2026-10-31 | Real estate and property management | A | Returning: multi-state lease page-1 fee checker (IL 1 Jan 2027 confirmed; portals cover listings) | Watchlist | 55/100 | [brief](briefs/2026-10-31.md) |
+| 2026-10-31 | HR, recruiting and freelancing | B | WhatsApp applicant screener for hourly hiring (UK, UAE, KSA) | Watchlist | 53/100 | [brief](briefs/2026-10-31.md) |
+| 2026-10-31 | E-commerce and marketplace sellers | A | Shopify checkout-redirect monitor for agencies (Oct app hijacks) | Watchlist | 52/100 | [brief](briefs/2026-10-31.md) |
+| 2026-10-31 | Logistics, supply chain and manufacturing | A | EU €3 per-item duty grouping preflight | Dropped | 48/100 | [brief](briefs/2026-10-31.md) |
+| 2026-10-31 | Hospitality, restaurants and events | A | Returning: UK tipping consultation kit (code withdrawn, date undated) | Dropped | 48/100 | [brief](briefs/2026-10-31.md) |
+| 2026-10-31 | Compliance and regulation-driven products | A | US 2027 state privacy threshold checker plus GPC scanner | Dropped | 46/100 | [brief](briefs/2026-10-31.md) |
+| 2026-10-31 | Developer tools and AI infrastructure | A | Firebase Studio exit kit (22 Mar 2027) | Dropped | 43/100 | [brief](briefs/2026-10-31.md) |
+| 2026-10-31 | Security and IT for small businesses and MSPs | A | CSP 5% annual-monthly software renewal uplift checker | Dropped | 41/100 | [brief](briefs/2026-10-31.md) |
+| 2026-10-31 | E-commerce and marketplace sellers | A | Etsy AI listing compliance audit (API terms bar analysis use) | Killed | K3 | [brief](briefs/2026-10-31.md) |
+| 2026-10-31 | Marketing and advertising | A | Meta on-device conversions vs orders reconciler (12 Nov) | Killed | K5 | [brief](briefs/2026-10-31.md) |
+| 2026-10-31 | Entertainment, media and communities | A | Discord web-presence audit bot (16 Nov indexing) | Killed | K5 | [brief](briefs/2026-10-31.md) |
+| 2026-10-31 | Entertainment, media and communities | B | Telegram AI bot builder on the VibeBot model (Telegram Managed Bots) | Killed | K5 | [brief](briefs/2026-10-31.md) |

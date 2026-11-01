@@ -344,3 +344,17 @@ Rows marked "Rejected" (runs 1 to 3) used an older, too-strict method; the re-sc
 | 2026-10-31 | Marketing and advertising | A | Meta on-device conversions vs orders reconciler (12 Nov) | Killed | K5 | [brief](briefs/2026-10-31.md) |
 | 2026-10-31 | Entertainment, media and communities | A | Discord web-presence audit bot (16 Nov indexing) | Killed | K5 | [brief](briefs/2026-10-31.md) |
 | 2026-10-31 | Entertainment, media and communities | B | Telegram AI bot builder on the VibeBot model (Telegram Managed Bots) | Killed | K5 | [brief](briefs/2026-10-31.md) |
+| 2026-11-01 | HR, recruiting and freelancing | A | Returning: UK third-party harassment evidence file (duty live 30 Oct; Saferspace, Culture Shift found) | Watchlist | 63/100 | [brief](briefs/2026-11-01.md) |
+| 2026-11-01 | Compliance and regulation-driven products | A | Returning merge: ADM notice register for Australia (10 Dec) and California CCPA ADMT (1 Jan 2027) | Watchlist | 59/100 | [brief](briefs/2026-11-01.md) |
+| 2026-11-01 | Logistics, supply chain and manufacturing | B | EUDR statement desk for small EU importers (official SOAP API; micro/small 30 Jun 2027) | Watchlist | 53/100 | [brief](briefs/2026-11-01.md) |
+| 2026-11-01 | E-commerce and marketplace sellers | A | Returning: Shopify expiring-token migration kit (official libraries now cover it) | Dropped | 48/100 | [brief](briefs/2026-11-01.md) |
+| 2026-11-01 | Marketing and advertising | A | Meta 10.6.a agency ad-spend disclosure report (3 Feb 2027, on request) | Dropped | 48/100 | [brief](briefs/2026-11-01.md) |
+| 2026-11-01 | Security and IT for small businesses and MSPs | A | MSP vendor-cost drift auditor (Gradient Reconcile exists) | Dropped | 48/100 | [brief](briefs/2026-11-01.md) |
+| 2026-11-01 | Beauty, fitness and personal services | A | AI-booking visibility checker for salons (Booksy in ChatGPT) | Dropped | 44/100 | [brief](briefs/2026-11-01.md) |
+| 2026-11-01 | Content creation and the creator economy | A | YouTube channel-activity monitor for creator networks (1 Feb 2027) | Dropped | 43/100 | [brief](briefs/2026-11-01.md) |
+| 2026-11-01 | Clinic and practice admin | A | Jane licence right-sizer (24-hour full-time line) | Dropped | 40/100 | [brief](briefs/2026-11-01.md) |
+| 2026-11-01 | Design and creative professionals | A | Returning: Webflow workspace repricing auditor (16 Nov) | Dropped | 40/100 | [brief](briefs/2026-11-01.md) |
+| 2026-11-01 | Education and e-learning | A | Thinkific exit kit (Basic plan removed Oct 2026) | Killed | K5 | [brief](briefs/2026-11-01.md) |
+| 2026-11-01 | Finance operations for small businesses | A | NZ B2G Peppol add-on for Xero/MYOB (Xero includes it) | Killed | K5 | [brief](briefs/2026-11-01.md) |
+| 2026-11-01 | Developer tools and AI infrastructure | A | Returning: OpenAI GPT-4o/4.1 retirement regression tester (14 Jan 2027) | Killed | K5 | [brief](briefs/2026-11-01.md) |
+| 2026-11-01 | Productivity, templates and browser tools | A | Mozilla Solo site rescue (30 Nov; ZIP export provided) | Killed | K5 | [brief](briefs/2026-11-01.md) |

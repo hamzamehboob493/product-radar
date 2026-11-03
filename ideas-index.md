@@ -358,3 +358,17 @@ Rows marked "Rejected" (runs 1 to 3) used an older, too-strict method; the re-sc
 | 2026-11-01 | Finance operations for small businesses | A | NZ B2G Peppol add-on for Xero/MYOB (Xero includes it) | Killed | K5 | [brief](briefs/2026-11-01.md) |
 | 2026-11-01 | Developer tools and AI infrastructure | A | Returning: OpenAI GPT-4o/4.1 retirement regression tester (14 Jan 2027) | Killed | K5 | [brief](briefs/2026-11-01.md) |
 | 2026-11-01 | Productivity, templates and browser tools | A | Mozilla Solo site rescue (30 Nov; ZIP export provided) | Killed | K5 | [brief](briefs/2026-11-01.md) |
+| 2026-11-03 | Logistics | A | Returning merge: 2027 carrier re-cost and box auditor (USPS weekly fuel fee, UPS 21 Dec, FedEx 4 Jan) | Validate | 65/100 | [brief](briefs/2026-11-03.md) |
+| 2026-11-03 | Finance operations / GCC | A | GCC bilingual inbox invoice finder to Zoho/Xero/QBO (Expensent model) | Watchlist | 59/100 | [brief](briefs/2026-11-03.md) |
+| 2026-11-03 | Real estate | B | Small-commercial CAM/NNN reconciliation on QuickBooks Online | Watchlist | 57/100 | [brief](briefs/2026-11-03.md) |
+| 2026-11-03 | Developer tools | A | Maintained Salesforce MCP after DX server end of life (unconfirmed) | Watchlist | 53/100 | [brief](briefs/2026-11-03.md) |
+| 2026-11-03 | Security and IT | A | Azure SQL Data Sync assessment and migration kit (30 Sep 2027) | Watchlist | 51/100 | [brief](briefs/2026-11-03.md) |
+| 2026-11-03 | Home services | A | Returning: Jobber supplier price-file updater with monthly ACHR price-rise feed | Watchlist | 50/100 | [brief](briefs/2026-11-03.md) |
+| 2026-11-03 | Data products and APIs | B | Smithery-hosted MCP server re-homing | Dropped | 42/100 | [brief](briefs/2026-11-03.md) |
+| 2026-11-03 | Design and creative | B | Weddx wedding auto-edit model on DaVinci Resolve | Dropped | 40/100 | [brief](briefs/2026-11-03.md) |
+| 2026-11-03 | Clinic and practice admin | A | SimplePractice per-claim fee cost check | Dropped | 38/100 | [brief](briefs/2026-11-03.md) |
+| 2026-11-03 | E-commerce | A | Shopify Tax managed-mode product-category filler | Killed | K5 | [brief](briefs/2026-11-03.md) |
+| 2026-11-03 | Productivity | B | Confluence DC replacement for Atlassian Companion (April 2027) | Killed | K3 | [brief](briefs/2026-11-03.md) |
+| 2026-11-03 | Product marketing and SaaS growth | A | LaunchNotes exit kit (Growth $249 to $833/month) | Killed | K5 | [brief](briefs/2026-11-03.md) |
+| 2026-11-03 | Product marketing and SaaS growth | A | Intercom seat and Fin cost right-sizer | Killed | K5 | [brief](briefs/2026-11-03.md) |
+| 2026-11-03 | Education | A | AI voice mock interviews for UK MMI (CaseTutor model) | Killed | K5 | [brief](briefs/2026-11-03.md) |

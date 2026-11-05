@@ -372,3 +372,17 @@ Rows marked "Rejected" (runs 1 to 3) used an older, too-strict method; the re-sc
 | 2026-11-03 | Product marketing and SaaS growth | A | LaunchNotes exit kit (Growth $249 to $833/month) | Killed | K5 | [brief](briefs/2026-11-03.md) |
 | 2026-11-03 | Product marketing and SaaS growth | A | Intercom seat and Fin cost right-sizer | Killed | K5 | [brief](briefs/2026-11-03.md) |
 | 2026-11-03 | Education | A | AI voice mock interviews for UK MMI (CaseTutor model) | Killed | K5 | [brief](briefs/2026-11-03.md) |
+| 2026-11-05 | Education | A | TPT store cross-lister (own backup to Etsy/Shopify/Payhip, price sync; Premium to Basic 1 Jan 2027) | Watchlist | 60/100 | [brief](briefs/2026-11-05.md) |
+| 2026-11-05 | Compliance and regulation-driven products | B | EU Data Act switching kit for small B2B SaaS (12 Jan 2027) | Watchlist | 58/100 | [brief](briefs/2026-11-05.md) |
+| 2026-11-05 | Content creation and the creator economy | B | Returning: podcast sponsorship delivery receipts (Audacy Creator Lab closed 1 Nov; score held) | Watchlist | 54/100 | [brief](briefs/2026-11-05.md) |
+| 2026-11-05 | Home services and construction | A | EPA leak-rate log add-on from Jobber/HCP jobs (chronic-leak report 1 Mar 2027) | Watchlist | 52/100 | [brief](briefs/2026-11-05.md) |
+| 2026-11-05 | Finance operations for small businesses | A | Multi-processor monthly invoice export (MassInvoices model beyond Stripe) | Watchlist | 50/100 | [brief](briefs/2026-11-05.md) |
+| 2026-11-05 | GCC and Arabic-first | B | Returning: Salla app via Partners Agent Kit (build cheaper; demand not re-checked) | Dropped | 48/100 | [brief](briefs/2026-11-05.md) |
+| 2026-11-05 | Sales and revenue ops | A | HubSpot runtime migration pack (Node 24 custom code scan, serverless 1 Feb 2027) | Dropped | 47/100 | [brief](briefs/2026-11-05.md) |
+| 2026-11-05 | Compliance and regulation-driven products | B | CCPA linked-identifier opt-out propagation (Klaviyo, HubSpot, audiences) | Dropped | 42/100 | [brief](briefs/2026-11-05.md) |
+| 2026-11-05 | Security and IT for small businesses and MSPs | B | WHMCS/cPanel exit or cost tool for small hosts (1 Jan 2027 rises) | Dropped | 41/100 | [brief](briefs/2026-11-05.md) |
+| 2026-11-05 | Finance operations for small businesses | B | Greece myDATA connector for Shopify/Woo (accredited provider 1 Feb 2027) | Dropped | 41/100 | [brief](briefs/2026-11-05.md) |
+| 2026-11-05 | Compliance and regulation-driven products | B | EU Data Act connected-product data access portal | Dropped | 40/100 | [brief](briefs/2026-11-05.md) |
+| 2026-11-05 | Marketing and advertising | A | Meta Graph API commerce and v21 exposure scanner | Dropped | 38/100 | [brief](briefs/2026-11-05.md) |
+| 2026-11-05 | HR, recruiting and freelancing | A | Interseller shutdown export converter (15 Dec) | Killed | K5 | [brief](briefs/2026-11-05.md) |
+| 2026-11-05 | Developer tools and AI infrastructure | A | Google Jules export importer (closes 31 Dec) | Killed | K4 | [brief](briefs/2026-11-05.md) |

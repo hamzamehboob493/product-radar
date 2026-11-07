@@ -386,3 +386,20 @@ Rows marked "Rejected" (runs 1 to 3) used an older, too-strict method; the re-sc
 | 2026-11-05 | Marketing and advertising | A | Meta Graph API commerce and v21 exposure scanner | Dropped | 38/100 | [brief](briefs/2026-11-05.md) |
 | 2026-11-05 | HR, recruiting and freelancing | A | Interseller shutdown export converter (15 Dec) | Killed | K5 | [brief](briefs/2026-11-05.md) |
 | 2026-11-05 | Developer tools and AI infrastructure | A | Google Jules export importer (closes 31 Dec) | Killed | K4 | [brief](briefs/2026-11-05.md) |
+| 2026-11-07 | Compliance and regulation-driven products | B | AS 1851 certificates and defect logbook for small AU fire contractors (FireCert model; NSW mandate, accreditation 13 Feb 2027) | Watchlist | 62/100 | [brief](briefs/2026-11-07.md) |
+| 2026-11-07 | Compliance and regulation-driven products | B | Returning: companion-chatbot compliance SDK (NY S9051-B and WA ESHB 2225 from 1 Jan 2027) | Watchlist | 60/100 | [brief](briefs/2026-11-07.md) |
+| 2026-11-07 | E-commerce and marketplace sellers | A | UK marketplace VAT per-platform records tracker (Oct 2027, £90k per platform) | Watchlist | 59/100 | [brief](briefs/2026-11-07.md) |
+| 2026-11-07 | Sales and revenue ops | A | Keap XML-RPC exposure audit plus fixed-price rebuild (support ends 15 Mar 2027) | Watchlist | 58/100 | [brief](briefs/2026-11-07.md) |
+| 2026-11-07 | AI agents and automation for small businesses | B | Make.com scenario copilot (Synta model from n8n) | Watchlist | 52/100 | [brief](briefs/2026-11-07.md) |
+| 2026-11-07 | Logistics, supply chain and manufacturing | A | Returning: carrier rate-change watcher (fold into 2027 re-cost auditor; Pirate Ship alerts stopped) | Dropped | 49/100 | [brief](briefs/2026-11-07.md) |
+| 2026-11-07 | Legal, accounting and professional services | A | Signed-document reader for ES/PL/Baltic containers (P7M.io model) | Dropped | 47/100 | [brief](briefs/2026-11-07.md) |
+| 2026-11-07 | Developer tools and AI infrastructure | A | Returning: Shopify public-app compliance checker (IP allowlist 20 Nov) | Dropped | 42/100 | [brief](briefs/2026-11-07.md) |
+| 2026-11-07 | Nonprofits, associations and membership organisations | A | UK small-charity receipts-and-payments accounts pack (£500k threshold) | Dropped | 38/100 | [brief](briefs/2026-11-07.md) |
+| 2026-11-07 | Marketing and advertising | B | Returning: cheap comment moderation for NapoleonCat leavers (price rise was a plan mismatch) | Dropped | 35/100 | [brief](briefs/2026-11-07.md) |
+| 2026-11-07 | Marketing and advertising | A | Buffer legacy API migration helper (1 Feb 2027) | Dropped | 33/100 | [brief](briefs/2026-11-07.md) |
+| 2026-11-07 | Hospitality, restaurants and events | B | Abu Dhabi SEHHI healthy-menu tracker | Dropped | 30/100 | [brief](briefs/2026-11-07.md) |
+| 2026-11-07 | Finance operations for small businesses | A | Merchant-of-record invoice editor (ZenVoice model) | Killed | K5 | [brief](briefs/2026-11-07.md) |
+| 2026-11-07 | Real estate and property management | A | Vrbo 12% commission repricing and parity checker | Killed | K5 | [brief](briefs/2026-11-07.md) |
+| 2026-11-07 | Education and e-learning | A | ThriveCart Learn exit kit (retired end 2026) | Killed | K5 | [brief](briefs/2026-11-07.md) |
+| 2026-11-07 | Developer tools and AI infrastructure | B | JetBrains Code With Me replacement plugin (Q1 2027) | Killed | K3 | [brief](briefs/2026-11-07.md) |
+| 2026-11-07 | Design and creative professionals | A | Photo-gallery shutdown archive (Pass, Aperty) | Killed | K5 | [brief](briefs/2026-11-07.md) |

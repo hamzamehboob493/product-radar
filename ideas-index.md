@@ -403,3 +403,18 @@ Rows marked "Rejected" (runs 1 to 3) used an older, too-strict method; the re-sc
 | 2026-11-07 | Education and e-learning | A | ThriveCart Learn exit kit (retired end 2026) | Killed | K5 | [brief](briefs/2026-11-07.md) |
 | 2026-11-07 | Developer tools and AI infrastructure | B | JetBrains Code With Me replacement plugin (Q1 2027) | Killed | K3 | [brief](briefs/2026-11-07.md) |
 | 2026-11-07 | Design and creative professionals | A | Photo-gallery shutdown archive (Pass, Aperty) | Killed | K5 | [brief](briefs/2026-11-07.md) |
+| 2026-11-11 | Finance operations for small businesses | B | Zoho Books bulk import, delete and undo (SaasAnt model; native bulk update 50, no undo) | Watchlist | 64/100 | [brief](briefs/2026-11-11.md) |
+| 2026-11-11 | Compliance and regulation-driven products | B | UK CBAM records ledger and supplier evidence kit (records from 1 Jan 2027; cheapest tool £1,990/yr) | Watchlist | 63/100 | [brief](briefs/2026-11-11.md) |
+| 2026-11-11 | Productivity, templates and browser tools | A | Airtable exit-ready Postgres mirror with attachment archive (Bending Spoons; no price change yet) | Watchlist | 60/100 | [brief](briefs/2026-11-11.md) |
+| 2026-11-11 | HR, recruiting and freelancing | B | Returning merge: California AI-at-work register (AB 1883, SB 951, SB 947, CCPA ADMT) | Watchlist | 58/100 | [brief](briefs/2026-11-11.md) |
+| 2026-11-11 | Marketing and advertising | A | Returning: DSA-to-AI Max snapshot and diff (Feb 2027 window, date conflict) | Watchlist | 56/100 | [brief](briefs/2026-11-11.md) |
+| 2026-11-11 | Productivity, templates and browser tools | A | Returning: Atlassian automation and seat cost analyser (13 Oct price rise; 3 Dec billing) | Watchlist | 54/100 | [brief](briefs/2026-11-11.md) |
+| 2026-11-11 | E-commerce and marketplace sellers | A | Etsy CSV backup and move kit (AI terms 16 Dec; API bars migration tools) | Watchlist | 52/100 | [brief](briefs/2026-11-11.md) |
+| 2026-11-11 | Hospitality, restaurants and events | A | Toast bill and contract audit (FTC suit 29 Oct) | Dropped | 46/100 | [brief](briefs/2026-11-11.md) |
+| 2026-11-11 | Security and IT for small businesses and MSPs | A | Windows Server 2016 end-of-support register (fold into Win10 ESU register) | Dropped | 46/100 | [brief](briefs/2026-11-11.md) |
+| 2026-11-11 | Legal, accounting and professional services | A | TaxDome renewal estimator and clean-up kit (estimator K5: vendor plan in portal) | Dropped | 45/100 | [brief](briefs/2026-11-11.md) |
+| 2026-11-11 | E-commerce and marketplace sellers | A | Shopify legacy customer-accounts audit (no sunset date) | Dropped | 45/100 | [brief](briefs/2026-11-11.md) |
+| 2026-11-11 | AI agents and automation for small businesses | A | Preview-site pitch builder on the Prospo model | Dropped | 44/100 | [brief](briefs/2026-11-11.md) |
+| 2026-11-11 | GCC and Arabic-first | B | Returning: UAE inbound e-invoice reader (ASPs own receiving) | Dropped | 43/100 | [brief](briefs/2026-11-11.md) |
+| 2026-11-11 | Compliance and regulation-driven products | A | EU dark-pattern storefront scanner (Digital Fairness Act draft) | Dropped | 41/100 | [brief](briefs/2026-11-11.md) |
+| 2026-11-11 | Beauty, fitness and personal services | B | WhatsApp check-ins for personal trainers (EliteTrainer model) | Dropped | 40/100 | [brief](briefs/2026-11-11.md) |

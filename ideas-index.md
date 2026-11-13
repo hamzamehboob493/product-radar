@@ -418,3 +418,18 @@ Rows marked "Rejected" (runs 1 to 3) used an older, too-strict method; the re-sc
 | 2026-11-11 | GCC and Arabic-first | B | Returning: UAE inbound e-invoice reader (ASPs own receiving) | Dropped | 43/100 | [brief](briefs/2026-11-11.md) |
 | 2026-11-11 | Compliance and regulation-driven products | A | EU dark-pattern storefront scanner (Digital Fairness Act draft) | Dropped | 41/100 | [brief](briefs/2026-11-11.md) |
 | 2026-11-11 | Beauty, fitness and personal services | B | WhatsApp check-ins for personal trainers (EliteTrainer model) | Dropped | 40/100 | [brief](briefs/2026-11-11.md) |
+| 2026-11-13 | Product marketing and SaaS growth | A | Shopify usage-billing abuse guard for app developers (Mantle gone; Billing API gaps) | Validate | 65/100 | [brief](briefs/2026-11-13.md) |
+| 2026-11-13 | Security and IT for small businesses and MSPs | B | Returning: MSP Copilot and AI Builder credit monitor (AI Builder EOL 1 Nov; Lighthouse has no credits) | Watchlist | 62/100 | [brief](briefs/2026-11-13.md) |
+| 2026-11-13 | E-commerce and marketplace sellers | A | UK all-in delivered-price display for Shopify (CMA letter 2 Nov) | Watchlist | 61/100 | [brief](briefs/2026-11-13.md) |
+| 2026-11-13 | Logistics, supply chain and manufacturing | B | RFQ intake and drawing-to-spec assistant for small job shops (QuotedPart model) | Watchlist | 50/100 | [brief](briefs/2026-11-13.md) |
+| 2026-11-13 | Automotive | A | Michigan dealer data-consent and vendor register (SB 198) | Dropped | 48/100 | [brief](briefs/2026-11-13.md) |
+| 2026-11-13 | GCC and Arabic-first | A | Qiwa annual training-disclosure register (31 Jan 2027) | Dropped | 47/100 | [brief](briefs/2026-11-13.md) |
+| 2026-11-13 | Finance operations for small businesses | A | Xero invoice email queue (429 from 14 Jan 2027) | Dropped | 44/100 | [brief](briefs/2026-11-13.md) |
+| 2026-11-13 | GCC and Arabic-first | B | UAE Child Digital Safety age gate and parental consent | Dropped | 44/100 | [brief](briefs/2026-11-13.md) |
+| 2026-11-13 | GCC and Arabic-first | A | Saudization 70% project-management role tracker (14 Feb 2027) | Dropped | 43/100 | [brief](briefs/2026-11-13.md) |
+| 2026-11-13 | Clinic and practice admin | A | HHS Section 504 intake and payment page check (May 2027) | Dropped | 42/100 | [brief](briefs/2026-11-13.md) |
+| 2026-11-13 | HR, recruiting and freelancing | B | Bullhorn staffing fallback and backup kit (17 Oct attack) | Dropped | 38/100 | [brief](briefs/2026-11-13.md) |
+| 2026-11-13 | Content creation and the creator economy | B | YouTube inauthentic-content risk audit for faceless channels | Dropped | 38/100 | [brief](briefs/2026-11-13.md) |
+| 2026-11-13 | E-commerce and marketplace sellers | A | ChatGPT business feed kit for WooCommerce (Businesses in ChatGPT 10 Nov) | Killed | K5 | [brief](briefs/2026-11-13.md) |
+| 2026-11-13 | Developer tools and AI infrastructure | A | Val Town exit kit (read-only 10 Dec) | Killed | K5 | [brief](briefs/2026-11-13.md) |
+| 2026-11-13 | Clinic and practice admin | B | Private-pay therapist practice tool cheaper than SimplePractice | Killed | K2 | [brief](briefs/2026-11-13.md) |

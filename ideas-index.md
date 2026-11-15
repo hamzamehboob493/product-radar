@@ -433,3 +433,18 @@ Rows marked "Rejected" (runs 1 to 3) used an older, too-strict method; the re-sc
 | 2026-11-13 | E-commerce and marketplace sellers | A | ChatGPT business feed kit for WooCommerce (Businesses in ChatGPT 10 Nov) | Killed | K5 | [brief](briefs/2026-11-13.md) |
 | 2026-11-13 | Developer tools and AI infrastructure | A | Val Town exit kit (read-only 10 Dec) | Killed | K5 | [brief](briefs/2026-11-13.md) |
 | 2026-11-13 | Clinic and practice admin | B | Private-pay therapist practice tool cheaper than SimplePractice | Killed | K2 | [brief](briefs/2026-11-13.md) |
+| 2026-11-15 | Logistics, supply chain and manufacturing | A | Returning: 2027 carrier re-cost and box auditor (USPS filed 12 Nov: permanent 11% fuel, +11.9% 1 lb near zones) | Validate | 65/100 | [brief](briefs/2026-11-15.md) |
+| 2026-11-15 | Marketing and advertising | A | Returning: AI-ad disclosure register and label kit (Pennsylvania SB 806 from 21 Dec; NY, EU Art. 50) | Watchlist | 63/100 | [brief](briefs/2026-11-15.md) |
+| 2026-11-15 | Security and IT for SMBs and MSPs | B | Returning merge: MSP Q1 Microsoft cutover audit (SMTP AUTH on non-P1 tenants plus SMS-only MFA, MC1519855; CIPP covers P1) | Watchlist | 57/100 | [brief](briefs/2026-11-15.md) |
+| 2026-11-15 | Marketing and advertising | A | Reddit Ads guardrails (Bïrch-style rules; API write access unconfirmed) | Watchlist | 57/100 | [brief](briefs/2026-11-15.md) |
+| 2026-11-15 | Education and e-learning | B | Water and wastewater operator exam prep (Tree Nerd model) | Watchlist | 56/100 | [brief](briefs/2026-11-15.md) |
+| 2026-11-15 | Real estate and property management | A | Returning merge: lease fee checker plus CA SB 1296 pet-policy module (FTC Progress settlement; Rentec itemises listings) | Watchlist | 55/100 | [brief](briefs/2026-11-15.md) |
+| 2026-11-15 | GCC and Arabic-first | A | Returning: UAE PINT-AE master-data preflight (penalties capped 1 Nov) | Dropped | 49/100 | [brief](briefs/2026-11-15.md) |
+| 2026-11-15 | E-commerce and marketplace sellers | A | TikTok Shop Smart Promotion fee checker | Dropped | 48/100 | [brief](briefs/2026-11-15.md) |
+| 2026-11-15 | Finance operations for small businesses | B | Belgian trades quote and invoice app (Khosmos model; not researched) | Dropped | 48/100 | [brief](briefs/2026-11-15.md) |
+| 2026-11-15 | E-commerce and marketplace sellers | A | Shopify UCP ask_business agent-readiness audit (15 Jan 2027 sunset) | Dropped | 46/100 | [brief](briefs/2026-11-15.md) |
+| 2026-11-15 | Security and IT for SMBs and MSPs | B | Hosted read-only MCP gateway for MSP stacks (NinjaOne official MCP 13 Oct) | Dropped | 45/100 | [brief](briefs/2026-11-15.md) |
+| 2026-11-15 | Finance operations for small businesses | A | Merchant processing statement and lease checker (FTC suit 2 Nov) | Dropped | 43/100 | [brief](briefs/2026-11-15.md) |
+| 2026-11-15 | Developer tools and AI infrastructure | A | Chroma Cloud exit kit (writes off 22 Nov) | Dropped | 42/100 | [brief](briefs/2026-11-15.md) |
+| 2026-11-15 | E-commerce and marketplace sellers | A | Amazon 2027 FBA fee impact simulator (Amazon dashboard per SKU) | Killed | K5 | [brief](briefs/2026-11-15.md) |
+| 2026-11-15 | E-commerce and marketplace sellers | A | Amazon Haul vs main-listing overlap report | Killed | K5 | [brief](briefs/2026-11-15.md) |

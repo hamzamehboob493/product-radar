@@ -448,3 +448,17 @@ Rows marked "Rejected" (runs 1 to 3) used an older, too-strict method; the re-sc
 | 2026-11-15 | Developer tools and AI infrastructure | A | Chroma Cloud exit kit (writes off 22 Nov) | Dropped | 42/100 | [brief](briefs/2026-11-15.md) |
 | 2026-11-15 | E-commerce and marketplace sellers | A | Amazon 2027 FBA fee impact simulator (Amazon dashboard per SKU) | Killed | K5 | [brief](briefs/2026-11-15.md) |
 | 2026-11-15 | E-commerce and marketplace sellers | A | Amazon Haul vs main-listing overlap report | Killed | K5 | [brief](briefs/2026-11-15.md) |
+| 2026-11-17 | Compliance and regulation-driven products | B | Returning: UK subscription notice engine for Stripe Billing (regs laid; CMA fines; Stripe 60-day logs; SubGuard entered) | Watchlist | 59/100 | [brief](briefs/2026-11-17.md) |
+| 2026-11-17 | HR, recruiting and freelancing | B | Returning: WhatsApp applicant screener (Hirevire +37% MoM verified; Recruitera $150 add-on) | Watchlist | 58/100 | [brief](briefs/2026-11-17.md) |
+| 2026-11-17 | Marketing and advertising | B | Returning: AI-search visibility tracker for dental agencies (Rankscale $99/10 and Otterly unlimited take flat tier) | Watchlist | 57/100 | [brief](briefs/2026-11-17.md) |
+| 2026-11-17 | Productivity, templates and browser tools | A | Harvest exit kit: full history, invoices, totals check (Toggl imports 12 months only) | Watchlist | 56/100 | [brief](briefs/2026-11-17.md) |
+| 2026-11-17 | Developer tools and AI infrastructure | B | Gadget-to-self-host codemod and migration kit (shuts 31 Mar 2027) | Watchlist | 54/100 | [brief](briefs/2026-11-17.md) |
+| 2026-11-17 | AI agents and automation for small businesses | B | Self-serve AI DM setter for coaches, inbound only (DM Champ model) | Watchlist | 53/100 | [brief](briefs/2026-11-17.md) |
+| 2026-11-17 | Developer tools and AI infrastructure | A | Custom GPT Actions to MCP migration kit (GPTs retire 11 Dec) | Watchlist | 52/100 | [brief](briefs/2026-11-17.md) |
+| 2026-11-17 | Beauty, fitness and personal services | B | AU gym and studio subscription cancel page and reminders (UTP Act 1 Jul 2027; reminder regs not made) | Watchlist | 50/100 | [brief](briefs/2026-11-17.md) |
+| 2026-11-17 | Automotive | B | Returning: dealer fee-disclosure and OEM website checker (CarGurus 90%+ disclosed; ComplyAuto channels) | Watchlist | 50/100 | [brief](briefs/2026-11-17.md) |
+| 2026-11-17 | E-commerce and marketplace sellers | A | Etsy photo-rule checker from seller CSV export | Dropped | 49/100 | [brief](briefs/2026-11-17.md) |
+| 2026-11-17 | Entertainment, media and communities | B | Discord/Telegram in-chat commerce (Cosmo model; Hopmembers exists) | Dropped | 48/100 | [brief](briefs/2026-11-17.md) |
+| 2026-11-17 | GCC and Arabic-first | A | Returning: Saudization tracker, 35% technician quota (GOSI auto-check) | Dropped | 43/100 | [brief](briefs/2026-11-17.md) |
+| 2026-11-17 | Legal, accounting and professional services | A | Clio estate-planning and probate workflow pack | Dropped | 42/100 | [brief](briefs/2026-11-17.md) |
+| 2026-11-17 | Hospitality, restaurants and events | A | Restaurant fee-disclosure checker (Florida SB 606) | Killed | K4 | [brief](briefs/2026-11-17.md) |

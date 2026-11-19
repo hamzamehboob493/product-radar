@@ -462,3 +462,16 @@ Rows marked "Rejected" (runs 1 to 3) used an older, too-strict method; the re-sc
 | 2026-11-17 | GCC and Arabic-first | A | Returning: Saudization tracker, 35% technician quota (GOSI auto-check) | Dropped | 43/100 | [brief](briefs/2026-11-17.md) |
 | 2026-11-17 | Legal, accounting and professional services | A | Clio estate-planning and probate workflow pack | Dropped | 42/100 | [brief](briefs/2026-11-17.md) |
 | 2026-11-17 | Hospitality, restaurants and events | A | Restaurant fee-disclosure checker (Florida SB 606) | Killed | K4 | [brief](briefs/2026-11-17.md) |
+| 2026-11-19 | Developer tools and AI infrastructure | A | LS Licence Bridge: Lemon Squeezy-compatible licence API and key/activation importer (LS payments stop 31 Mar 2027) | Validate | 70/100 | [brief](briefs/2026-11-19.md) |
+| 2026-11-19 | E-commerce and marketplace sellers | B | CPSC Registry bulk builder and ID write-back for Shopify (FTZ phase 8 Jan 2027) | Watchlist | 62/100 | [brief](briefs/2026-11-19.md) |
+| 2026-11-19 | HR, recruiting and freelancing | B | UK holiday-pay historical audit for employers and bureaux (FWA enforcement Apr 2027) | Watchlist | 61/100 | [brief](briefs/2026-11-19.md) |
+| 2026-11-19 | Real estate and property management | A | Gulf compliant virtual-staging packs (DLD True-View rule unconfirmed) | Watchlist | 56/100 | [brief](briefs/2026-11-19.md) |
+| 2026-11-19 | Productivity, templates and browser tools | A | Apps Script inventory and risk register (Gemini in Apps Script GA 12 Nov) | Watchlist | 54/100 | [brief](briefs/2026-11-19.md) |
+| 2026-11-19 | AI agents and automation for small businesses | A | Google Ask Maps call answer audit and config pack | Watchlist | 50/100 | [brief](briefs/2026-11-19.md) |
+| 2026-11-19 | Security and IT for small businesses and MSPs | A | Returning: MSP no-DMARC sweep (Outlook rejections 6 to 9 Nov rolled back) | Dropped | 47/100 | [brief](briefs/2026-11-19.md) |
+| 2026-11-19 | Nonprofits, associations and membership organisations | A | DonorPerfect standby mirror (10 to 16 Nov outage) | Dropped | 45/100 | [brief](briefs/2026-11-19.md) |
+| 2026-11-19 | Marketing and advertising | A | Returning: Meta auto-enabled settings guard (product browsing 28 Oct; no new evidence beyond Reddit) | Dropped | 44/100 | [brief](briefs/2026-11-19.md) |
+| 2026-11-19 | GCC and Arabic-first | B | Arabic WhatsApp-first booking for GCC service businesses (Calendesk model; Fresha, Rekaz cover it) | Dropped | 41/100 | [brief](briefs/2026-11-19.md) |
+| 2026-11-19 | Hospitality, restaurants and events | A | Eventbrite exit and backup kit (provisional, not researched) | Dropped | 40/100 | [brief](briefs/2026-11-19.md) |
+| 2026-11-19 | Productivity, templates and browser tools | A | Team prompt-library Chrome extension (provisional, not researched) | Dropped | 38/100 | [brief](briefs/2026-11-19.md) |
+| 2026-11-19 | HR, recruiting and freelancing | A | Indeed-proof careers page (31 Dec agency feed cutoff) | Killed | K5 | [brief](briefs/2026-11-19.md) |

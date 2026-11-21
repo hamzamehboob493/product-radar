@@ -475,3 +475,17 @@ Rows marked "Rejected" (runs 1 to 3) used an older, too-strict method; the re-sc
 | 2026-11-19 | Hospitality, restaurants and events | A | Eventbrite exit and backup kit (provisional, not researched) | Dropped | 40/100 | [brief](briefs/2026-11-19.md) |
 | 2026-11-19 | Productivity, templates and browser tools | A | Team prompt-library Chrome extension (provisional, not researched) | Dropped | 38/100 | [brief](briefs/2026-11-19.md) |
 | 2026-11-19 | HR, recruiting and freelancing | A | Indeed-proof careers page (31 Dec agency feed cutoff) | Killed | K5 | [brief](briefs/2026-11-19.md) |
+| 2026-11-21 | Productivity / MSP | B | Microsoft To Do tenant migrator to Planner for MSPs (apps retire 30 Jun 2027; ShareGate lacks To Do) | Watchlist | 63/100 | [brief](briefs/2026-11-21.md) |
+| 2026-11-21 | Developer tools | A | Returning: LS Licence Bridge (Dodo, Freemius, LicenseManager import keys; Keypost OSS clone) | Watchlist | 61/100 | [brief](briefs/2026-11-21.md) |
+| 2026-11-21 | E-commerce sellers | B | Squarespace wholesale portal ($39 vs Candid $179+) | Watchlist | 59/100 | [brief](briefs/2026-11-21.md) |
+| 2026-11-21 | Marketing and advertising | A | Returning merge: Google Ads MCC default-drift audit (Editor 2.14 AI Max, Demand Gen 1 Dec, PMax 4 Dec) | Watchlist | 57/100 | [brief](briefs/2026-11-21.md) |
+| 2026-11-21 | E-commerce sellers | B | Pay-per-SMS cart recovery for PrestaShop (CartBoss model) | Watchlist | 52/100 | [brief](briefs/2026-11-21.md) |
+| 2026-11-21 | HR and recruiting | A | Dutch Wtta supplier-status tracker for hirers | Dropped | 47/100 | [brief](briefs/2026-11-21.md) |
+| 2026-11-21 | Security and IT for MSPs | B | M365 security QBR report for small MSPs (Augmentt free reports) | Dropped | 46/100 | [brief](briefs/2026-11-21.md) |
+| 2026-11-21 | Compliance | B | Retail price-accuracy audit app (FTC Family Dollar order) | Dropped | 42/100 | [brief](briefs/2026-11-21.md) |
+| 2026-11-21 | Data products and APIs | A | Apify Actors for EU category-leader sites | Dropped | 40/100 | [brief](briefs/2026-11-21.md) |
+| 2026-11-21 | Nonprofits | A | M365 nonprofit grant roll-off backup and licence planner | Dropped | 38/100 | [brief](briefs/2026-11-21.md) |
+| 2026-11-21 | AI agents for SMBs | A | n8n per-conversation queue node for chat agents | Dropped | 35/100 | [brief](briefs/2026-11-21.md) |
+| 2026-11-21 | E-commerce sellers | A | Shopify "app at risk" delisting watch for merchants | Killed | K5 | [brief](briefs/2026-11-21.md) |
+| 2026-11-21 | Legal and accounting admin | A | Returning: TaxDome active-account audit (own report coming; no API) | Killed | K5 | [brief](briefs/2026-11-21.md) |
+| 2026-11-21 | Finance ops | A | UK buyer VAT-status checker for overseas service sellers (Apr 2027) | Killed | K2 | [brief](briefs/2026-11-21.md) |
